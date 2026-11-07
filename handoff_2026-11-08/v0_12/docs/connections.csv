@@ -1,0 +1,26 @@
+parent,child,interface,motion,actuator
+fixed_frame,upper_deck_L and R,M3x10 at four columns,fixed,none
+upper_deck_L,upper_deck_R,two deck_splice straps with M3x8,fixed,none
+fixed_frame,root_case_chassis,M2x12 and captured nuts x2,fixed,none
+root_output_shaft,arm_stage1 x2,full hex and end clips,rotation,M4
+arm_stage1 x2,elbow_stator,main axle plus passive parallelogram,upright translation,M4
+elbow_stator,elbow_case_chassis,M2x10 and captured nuts x2,fixed,none
+elbow_output_shaft,arm_stage2 x2,full hex and end clips,rotation,M5
+arm_stage2 x2,head_connector,main and passive stub pins with clips,upright translation,M5
+head_connector,module_case_L and R per head,M2 bolts and nuts x2,detachable rigid joint,none
+module_case_L,module_case_R,M2 cross bolts and nuts x2,clamshell assembly,none
+grip_drum_pinion,grip_pinion_insert,hex seat and two small-head screws,rotation,M1 or M2
+grip_pinion_insert,parallel_jaw_rack x2,m0.5 opposing racks,parallel opening,M1 or M2
+twist_upper_drum,twist_guide_cage,two small-head screws,rotation,M3
+twist_upper_drum,twist_return_spool_L and R,two small-head M1.4x5 total,local return rotation,return tendon
+module_case_L and R,push_cam_left and right,positive rear key,fixed,none
+push_sliding_drive,push_rotating_plunger,two-flat sliding coupling,rotation and axial slip,M6 or M7
+push_rotating_plunger,pusher_follower_pin,metal pin with centre-only adhesive,helix follower,M6 or M7
+module_case_L and R,fairlead_cover_G T P,small-head screws,liner access,none
+module_case_L and R,spring_cassette,M2x8 x2,removable fixed joint,none
+spring_cassette,JB-14 springs x3,horizontal fixed hook screws and PE knots on moving metal hooks,extension,local return tendons
+module_case_L and R,PTFE adapters,positive housing-end shoulders,fixed housings,M1 M2 M3 M6 M7
+elbow_stator,M5 PTFE adapters,housing end seats,fixed relative to upright carrier,M5
+bench_head_stand,bench_anchor_back and front,split clamp with M2x25 and nuts x4,manual tube endpoint fixture,hand pull
+spring_cassette,return_idler x3,open lateral slots and shared M1.6x16 axle,three independent free rotations,local return tendons
+spring_cassette,idler_common_axle and nut,bottom insertion after all wheels then top nut,fixed axle,none

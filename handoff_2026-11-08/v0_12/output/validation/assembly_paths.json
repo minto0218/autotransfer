@@ -1,0 +1,21 @@
+{
+  "sampled_distance_tests": 519,
+  "contacts": [],
+  "hex_insertion_fits": [
+    {
+      "shaft": "root_output_shaft",
+      "part": "arm_stage1",
+      "shaft_vertex_radius_mm": 5,
+      "hole_vertex_radius_mm": 5.25,
+      "minimum_normal_clearance_mm": 0.21650635094610965
+    },
+    {
+      "shaft": "elbow_output_shaft",
+      "part": "arm_stage2",
+      "shaft_vertex_radius_mm": 5,
+      "hole_vertex_radius_mm": 5.25,
+      "minimum_normal_clearance_mm": 0.21650635094610965
+    }
+  ],
+  "scope": "Selected home-pose case/cam closing, lower-stack insertion, rod insertion without cross pin. Fasteners removed in the stated order. No tool envelope, elastic clip insertion, knot or hand-access certification."
+}

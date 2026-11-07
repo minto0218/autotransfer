@@ -1,0 +1,23 @@
+{
+  "scope": "Check that rounded shaping retains the mounting, spring and idler supports.",
+  "support_control_points": {
+    "mount_left": true,
+    "mount_right": true,
+    "curved_rib_centre": true,
+    "upper_plate_neck": true,
+    "grip_hook_surround": true,
+    "twist_hook_surround": true,
+    "press_hook_surround": true,
+    "lower_idler_14.65": true,
+    "upper_idler_14.65": true,
+    "lower_idler_21.6": true,
+    "upper_idler_21.6": true,
+    "lower_idler_25.1": true,
+    "upper_idler_25.1": true
+  },
+  "solids": 1,
+  "plate_outer_x_mm": 24.5,
+  "bbox_tolerance_mm": 0.01,
+  "maximum_x_mm": 24.5000001,
+  "pass_": true
+}

@@ -1,0 +1,546 @@
+[
+  {
+    "part": "bench_head_stand",
+    "name": "卓上支持台",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      60.0,
+      70.0,
+      55.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "cable_stop_button",
+    "name": "糸端のビーズ",
+    "quantity": 3,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      2.1,
+      2.1,
+      0.6
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "case_alignment_key",
+    "name": "ケースの合わせキー",
+    "quantity": 2,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      3.0,
+      0.9,
+      0.9
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "平らな面をベッドへ・小キー用のブリムは除去して組む"
+  },
+  {
+    "part": "fairlead_cover_G",
+    "name": "G糸案内蓋",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      9.4,
+      9.778,
+      1.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "平らな面をベッドへ。糸溝への支持なし"
+  },
+  {
+    "part": "fairlead_cover_P",
+    "name": "P糸案内蓋",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      9.778,
+      9.778,
+      1.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "平らな面をベッドへ。糸溝への支持なし"
+  },
+  {
+    "part": "fairlead_cover_T",
+    "name": "T糸案内蓋",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      9.778,
+      9.778,
+      1.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "平らな面をベッドへ。糸溝への支持なし"
+  },
+  {
+    "part": "fit_coupon",
+    "name": "嵌合確認片",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      36.0,
+      12.0,
+      8.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "fit_coupon_pin",
+    "name": "嵌合確認ピン",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      6.0,
+      6.0,
+      9.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "grip_drum_pinion",
+    "name": "下把持ドラム",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      21.8,
+      21.8,
+      8.1
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "grip_pinion_insert",
+    "name": "別体24歯ピニオン",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      12.923,
+      12.923,
+      3.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "jaw_guide_endcap",
+    "name": "爪レールの着脱端止め",
+    "quantity": 2,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      22.0,
+      2.0,
+      6.2
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "jaw_lock_pin",
+    "name": "爪開放固定ピン",
+    "quantity": 2,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      4.4,
+      4.4,
+      26.5
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "頭を下にして軸を立てる・小さなブリム・穴と軸を現物合わせ"
+  },
+  {
+    "part": "manual_pull_tab",
+    "name": "手引きつまみ・G/T/P",
+    "quantity": 3,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      8.0,
+      4.0,
+      3.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "module_case_L",
+    "name": "ケース左半割",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      28.5,
+      49.5,
+      16.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "半割面をベッド側。内部ガイドへ支持を埋めない"
+  },
+  {
+    "part": "module_case_R",
+    "name": "ケース右半割",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      30.4,
+      49.5,
+      16.5
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "半割面をベッド側。内部ガイドへ支持を埋めない"
+  },
+  {
+    "part": "opening_gauge_5",
+    "name": "5mm開口ゲージ",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      23.0,
+      5.0,
+      5.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "parallel_jaw_rack",
+    "name": "5mm爪付きラック",
+    "quantity": 2,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      17.6,
+      27.0,
+      26.3
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "press_home_lock_pin",
+    "name": "棒の上端固定ピン",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      3.4,
+      3.4,
+      13.2
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "頭を下にして軸を立てる・小さなブリム・穴と軸を現物合わせ"
+  },
+  {
+    "part": "push_cam_alignment_key",
+    "name": "半割カムの合わせキー",
+    "quantity": 2,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      1.4,
+      0.6,
+      1.6
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "半割面をベッド側。カム溝の支持なし"
+  },
+  {
+    "part": "push_cam_left",
+    "name": "押込みカム左半割",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      24.4,
+      6.624,
+      3.38
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "半割面をベッド側。カム溝の支持なし"
+  },
+  {
+    "part": "push_cam_right",
+    "name": "押込みカム右半割",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      24.4,
+      6.624,
+      3.38
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "半割面をベッド側。カム溝の支持なし"
+  },
+  {
+    "part": "push_rotating_plunger",
+    "name": "押し足一体棒",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      12.0,
+      12.0,
+      58.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "押し足を下。ブリム。Ø1.1横穴を仕上げる"
+  },
+  {
+    "part": "push_sliding_drive",
+    "name": "押込みドラム",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      16.2,
+      16.2,
+      4.8
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "pusher_follower_pin",
+    "name": "フォロワピン・印刷比較用",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      5.8,
+      1.0,
+      1.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "比較用。金属Ø1×5.8に置換する場合は印刷不要"
+  },
+  {
+    "part": "rear_cable_retainer",
+    "name": "3線押えコーム",
+    "quantity": 1,
+    "nozzle_mm": "0.4可",
+    "layer_mm": "0.12〜0.16",
+    "bbox_mm": [
+      29.25,
+      13.8,
+      1.5
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "return_idler",
+    "name": "戻し糸の自由案内輪",
+    "quantity": 3,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      9.2,
+      9.2,
+      1.2
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "spring_cassette",
+    "name": "水平ばね共通側板",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      30.531,
+      58.787,
+      36.5
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "側板外面をベッド側。曲線リブも同じ外面へ収まる。輪の隙間と軸穴は空ける"
+  },
+  {
+    "part": "tube_reducer_25",
+    "name": "縦出口のフェルール",
+    "quantity": 3,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      4.8,
+      4.8,
+      4.8
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "twist_guide_cage",
+    "name": "爪のガイド籠",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      25.6,
+      44.4,
+      13.0
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "twist_lock_pin",
+    "name": "0度固定ピン・長軸",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      2.6,
+      2.6,
+      9.2
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "twist_motion_follower",
+    "name": "動作確認ピン・短軸",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      2.6,
+      2.6,
+      6.3
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "twist_return_spool_L",
+    "name": "戻し輪左半割",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      11.75,
+      9.3,
+      3.6
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "twist_return_spool_R",
+    "name": "戻し輪右半割",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      11.75,
+      9.3,
+      3.6
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  },
+  {
+    "part": "twist_upper_drum",
+    "name": "上ねじりドラム",
+    "quantity": 1,
+    "nozzle_mm": "0.2推奨",
+    "layer_mm": "0.06〜0.08",
+    "bbox_mm": [
+      28.0,
+      28.0,
+      4.8
+    ],
+    "solids": 1,
+    "valid": true,
+    "fits_A1": true,
+    "notes": "接地面と支持をスライサーで確認"
+  }
+]

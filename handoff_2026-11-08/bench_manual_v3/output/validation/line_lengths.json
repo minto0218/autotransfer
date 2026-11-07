@@ -1,0 +1,275 @@
+{
+  "scope": "Polyline length including the shown winding reserve and tab end. Not a cutting length; add knot and fitting allowance.",
+  "rows": [
+    {
+      "state": 0,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31125856062397
+    },
+    {
+      "state": 0,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 0,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 0,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33206711962438
+    },
+    {
+      "state": 0,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 0,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    },
+    {
+      "state": 1,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31342393774788
+    },
+    {
+      "state": 1,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 1,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 1,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33195385409627
+    },
+    {
+      "state": 1,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 1,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    },
+    {
+      "state": 2,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31558601797097
+    },
+    {
+      "state": 2,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 2,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 2,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.3308452448232
+    },
+    {
+      "state": 2,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 2,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    },
+    {
+      "state": 3,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.3121347273793
+    },
+    {
+      "state": 3,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68439081416189
+    },
+    {
+      "state": 3,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 3,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33199309688997
+    },
+    {
+      "state": 3,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.5589031147117
+    },
+    {
+      "state": 3,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    },
+    {
+      "state": 4,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31342393774788
+    },
+    {
+      "state": 4,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 4,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 4,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33195385409627
+    },
+    {
+      "state": 4,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 4,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    },
+    {
+      "state": 5,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31125856062397
+    },
+    {
+      "state": 5,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 5,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.6973985582033
+    },
+    {
+      "state": 5,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33206711962438
+    },
+    {
+      "state": 5,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 5,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11316922549265
+    },
+    {
+      "state": 6,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31125856062397
+    },
+    {
+      "state": 6,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 6,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69772784825285
+    },
+    {
+      "state": 6,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33206711962438
+    },
+    {
+      "state": 6,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 6,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11275787431583
+    },
+    {
+      "state": 7,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31125856062397
+    },
+    {
+      "state": 7,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 7,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 7,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33206711962438
+    },
+    {
+      "state": 7,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 7,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    },
+    {
+      "state": 9,
+      "name": "G 主糸",
+      "centerline_length_mm": 126.31125856062397
+    },
+    {
+      "state": 9,
+      "name": "T 主糸",
+      "centerline_length_mm": 103.68426476413646
+    },
+    {
+      "state": 9,
+      "name": "P 主糸",
+      "centerline_length_mm": 72.69675475782402
+    },
+    {
+      "state": 9,
+      "name": "grip 戻し糸",
+      "centerline_length_mm": 66.33206711962438
+    },
+    {
+      "state": 9,
+      "name": "twist 戻し糸",
+      "centerline_length_mm": 71.55903389185026
+    },
+    {
+      "state": 9,
+      "name": "press 戻し糸",
+      "centerline_length_mm": 67.11327119522491
+    }
+  ]
+}

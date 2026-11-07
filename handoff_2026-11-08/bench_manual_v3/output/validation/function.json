@@ -1,0 +1,351 @@
+{
+  "scope": "Positive constraints and a denser pusher path: collision-free is not a force test.",
+  "twist_samples": [
+    {
+      "gap": 25,
+      "angle": 0
+    },
+    {
+      "gap": 25,
+      "angle": 1
+    },
+    {
+      "gap": 25,
+      "angle": 2
+    },
+    {
+      "gap": 25,
+      "angle": 3
+    },
+    {
+      "gap": 25,
+      "angle": 4
+    },
+    {
+      "gap": 25,
+      "angle": 5
+    },
+    {
+      "gap": 25,
+      "angle": 6
+    },
+    {
+      "gap": 25,
+      "angle": 7
+    },
+    {
+      "gap": 25,
+      "angle": 8
+    },
+    {
+      "gap": 25,
+      "angle": 9
+    },
+    {
+      "gap": 25,
+      "angle": 10
+    },
+    {
+      "gap": 25,
+      "angle": 11
+    },
+    {
+      "gap": 25,
+      "angle": 12
+    },
+    {
+      "gap": 25,
+      "angle": 13
+    },
+    {
+      "gap": 25,
+      "angle": 14
+    },
+    {
+      "gap": 25,
+      "angle": 15
+    },
+    {
+      "gap": 25,
+      "angle": 16
+    },
+    {
+      "gap": 25,
+      "angle": 17
+    },
+    {
+      "gap": 25,
+      "angle": 18
+    },
+    {
+      "gap": 25,
+      "angle": 19
+    },
+    {
+      "gap": 25,
+      "angle": 20
+    },
+    {
+      "gap": 25,
+      "angle": 21
+    },
+    {
+      "gap": 25,
+      "angle": 22
+    },
+    {
+      "gap": 25,
+      "angle": 23
+    },
+    {
+      "gap": 25,
+      "angle": 24
+    },
+    {
+      "gap": 25,
+      "angle": 25
+    },
+    {
+      "gap": 25,
+      "angle": 26
+    },
+    {
+      "gap": 25,
+      "angle": 27
+    },
+    {
+      "gap": 25,
+      "angle": 28
+    },
+    {
+      "gap": 25,
+      "angle": 29
+    },
+    {
+      "gap": 25,
+      "angle": 30
+    },
+    {
+      "gap": 5,
+      "angle": 0
+    },
+    {
+      "gap": 5,
+      "angle": 15
+    },
+    {
+      "gap": 5,
+      "angle": 30
+    },
+    {
+      "gap": 35,
+      "angle": 0
+    },
+    {
+      "gap": 35,
+      "angle": 15
+    },
+    {
+      "gap": 35,
+      "angle": 30
+    }
+  ],
+  "twist_contacts": [],
+  "twist_spring": [
+    {
+      "angle": 0,
+      "length_mm": 16.0,
+      "extension_mm": 2.0,
+      "return_torque_lower_bound_Nmm": 0.4
+    },
+    {
+      "angle": 15,
+      "length_mm": 17.047197551196597,
+      "extension_mm": 3.0471975511965965,
+      "return_torque_lower_bound_Nmm": 0.6094395102393193
+    },
+    {
+      "angle": 30,
+      "length_mm": 18.094395102393197,
+      "extension_mm": 4.094395102393197,
+      "return_torque_lower_bound_Nmm": 0.8188790204786394
+    }
+  ],
+  "positive_constraints": [
+    {
+      "test": "drum_down_0.05_free",
+      "overlap_mm3": 0.0,
+      "expected_block": false,
+      "pass_": true
+    },
+    {
+      "test": "drum_down_0.15_hits_shoulder",
+      "overlap_mm3": 1.371211542018099,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "drum_up_0.10_free",
+      "overlap_mm3": 0.0,
+      "expected_block": false,
+      "pass_": true
+    },
+    {
+      "test": "drum_up_0.25_hits_upper_guide",
+      "overlap_mm3": 3.2169908772757654,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "park_pin_blocks_rod_-0.3",
+      "overlap_mm3": 0.3100514610578781,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "park_pin_blocks_rod_0.3",
+      "overlap_mm3": 0.31005146105779274,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_lift_0.5_at_gap5",
+      "overlap_mm3": 12.239999999999895,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_down_0.3_at_gap5",
+      "overlap_mm3": 1.9166219112170013,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_lift_0.5_at_gap25",
+      "overlap_mm3": 12.239999999999899,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_down_0.3_at_gap25",
+      "overlap_mm3": 0.7199999999999932,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_lift_0.5_at_gap35",
+      "overlap_mm3": 11.903999999999908,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_down_0.3_at_gap35",
+      "overlap_mm3": 0.7199999999999932,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "jaw_overopening_0.4_stop",
+      "overlap_mm3": 10.559999999999963,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "double_D_blocks_-10_at_push0",
+      "overlap_mm3": 0.04657961020490088,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "double_D_blocks_10_at_push0",
+      "overlap_mm3": 0.046579610204900396,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "double_D_blocks_-10_at_push10",
+      "overlap_mm3": 0.04657961020490026,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "double_D_blocks_10_at_push10",
+      "overlap_mm3": 0.04657961020489954,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "double_D_blocks_-10_at_push20",
+      "overlap_mm3": 0.04657961020490347,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "double_D_blocks_10_at_push20",
+      "overlap_mm3": 0.046579610204903824,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "twist_stop_0_offset-1",
+      "overlap_mm3": 0.24994196393329005,
+      "expected_block": true,
+      "pass_": true
+    },
+    {
+      "test": "twist_stop_0_offset0.5",
+      "overlap_mm3": 0.0,
+      "expected_block": false,
+      "pass_": true
+    },
+    {
+      "test": "twist_stop_30_offset-0.5",
+      "overlap_mm3": 0.0,
+      "expected_block": false,
+      "pass_": true
+    },
+    {
+      "test": "twist_stop_30_offset1",
+      "overlap_mm3": 0.2604063424028211,
+      "expected_block": true,
+      "pass_": true
+    }
+  ],
+  "pusher_samples": 41,
+  "pusher_contacts": [],
+  "flat_engagement": [
+    {
+      "push": 0,
+      "rod_top_local_z": 50,
+      "driver_top_local_z": 29.3,
+      "flat_engagement_mm": 4.8,
+      "top_margin_mm": 20.7
+    },
+    {
+      "push": 10,
+      "rod_top_local_z": 40,
+      "driver_top_local_z": 29.3,
+      "flat_engagement_mm": 4.8,
+      "top_margin_mm": 10.7
+    },
+    {
+      "push": 20,
+      "rod_top_local_z": 30,
+      "driver_top_local_z": 29.3,
+      "flat_engagement_mm": 4.8,
+      "top_margin_mm": 0.6999999999999993
+    }
+  ],
+  "nominal_clearances": {
+    "carriage_lower": 0.15,
+    "carriage_upper": 0.2,
+    "carriage_lateral": 0.2,
+    "carriage_upper_lip_overlap": 0.5,
+    "rack_outer_guide": 0.2,
+    "rack_upper_guide": 0.2,
+    "driver_lower_axial": 0.1,
+    "driver_upper_axial": 0.2,
+    "shaft_to_bore_flat": 0.1
+  },
+  "pass_": true
+}

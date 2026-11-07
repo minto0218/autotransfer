@@ -1,0 +1,806 @@
+{
+  "stl": {
+    "M3_deck_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "M3_splice_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "arm_stage1.stl": {
+      "triangles": 972,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "arm_stage2.stl": {
+      "triangles": 972,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "cable_stop_button.stl": {
+      "triangles": 504,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "case_M2_bolt.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "case_M2_nut.stl": {
+      "triangles": 276,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "cassette_M2_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "column_reaction_bracket.stl": {
+      "triangles": 560,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "deck_splice.stl": {
+      "triangles": 524,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_case_chassis.stl": {
+      "triangles": 3840,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_input_shaft.stl": {
+      "triangles": 572,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_mount_M2_bolt.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_mount_M2_nut.stl": {
+      "triangles": 276,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_output_gear.stl": {
+      "triangles": 2204,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_output_shaft.stl": {
+      "triangles": 612,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_parallel_axle.stl": {
+      "triangles": 1256,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_stator.stl": {
+      "triangles": 4402,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_cover_G.stl": {
+      "triangles": 560,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_cover_P.stl": {
+      "triangles": 560,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_cover_T.stl": {
+      "triangles": 560,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_screw_G.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_screw_P.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_screw_T.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fixed_frame.stl": {
+      "triangles": 5252,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "grip_drum_pinion.stl": {
+      "triangles": 3970,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "grip_pinion_insert.stl": {
+      "triangles": 1816,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "head_connector.stl": {
+      "triangles": 3732,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "head_main_stub.stl": {
+      "triangles": 752,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "head_parallel_stub.stl": {
+      "triangles": 752,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "holder_M2_bolt.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "holder_M2_nut.stl": {
+      "triangles": 276,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "holder_new_inner.stl": {
+      "triangles": 1154,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "holder_old_inner.stl": {
+      "triangles": 1154,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "idler_axle_nut.stl": {
+      "triangles": 276,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "idler_common_axle.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "jaw_lock_pin.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "joint_home_lock_pin.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "joint_input_drum.stl": {
+      "triangles": 1796,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "joint_input_pinion.stl": {
+      "triangles": 816,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "module_M2_bolt.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "module_M2_nut.stl": {
+      "triangles": 276,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "module_case_L.stl": {
+      "triangles": 8902,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "module_case_R.stl": {
+      "triangles": 7896,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "parallel_jaw_rack.stl": {
+      "triangles": 712,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "parallel_stage1.stl": {
+      "triangles": 940,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "parallel_stage2.stl": {
+      "triangles": 940,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "pinion_M14_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_cam_left.stl": {
+      "triangles": 4106,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_cam_right.stl": {
+      "triangles": 4106,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_rotating_plunger.stl": {
+      "triangles": 770,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_sliding_drive.stl": {
+      "triangles": 3412,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "pusher_follower_pin.stl": {
+      "triangles": 248,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "reaction_M2_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "rear_cable_retainer.stl": {
+      "triangles": 3212,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "retainer_M12_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "return_idler.stl": {
+      "triangles": 1008,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "return_spool_M14_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_case_chassis.stl": {
+      "triangles": 3832,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_input_shaft.stl": {
+      "triangles": 572,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_mount_M2_bolt.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_mount_M2_nut.stl": {
+      "triangles": 276,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_output_gear.stl": {
+      "triangles": 2204,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_output_shaft.stl": {
+      "triangles": 612,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_parallel_stub.stl": {
+      "triangles": 752,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "rotor_M12_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "servo_direct_mount.stl": {
+      "triangles": 1584,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "servo_stepup_mount.stl": {
+      "triangles": 2140,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "shaft_clip_2.stl": {
+      "triangles": 416,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "shaft_clip_3.stl": {
+      "triangles": 408,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "shaft_clip_5.stl": {
+      "triangles": 396,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "spring_cassette.stl": {
+      "triangles": 3146,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "spring_hook_screw.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "tube_reducer_25.stl": {
+      "triangles": 1008,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_guide_cage.stl": {
+      "triangles": 1896,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_lock_pin.stl": {
+      "triangles": 500,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_return_spool_L.stl": {
+      "triangles": 1498,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_return_spool_R.stl": {
+      "triangles": 812,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_upper_drum.stl": {
+      "triangles": 4576,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_PTFE_adapter.stl": {
+      "triangles": 1256,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_deck_L.stl": {
+      "triangles": 7676,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_deck_R.stl": {
+      "triangles": 9696,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_direct_drum.stl": {
+      "triangles": 1776,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_driver36.stl": {
+      "triangles": 2596,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_grip_drum.stl": {
+      "triangles": 1036,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_joint_drum.stl": {
+      "triangles": 1796,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_keyed_shaft.stl": {
+      "triangles": 572,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_pinion18.stl": {
+      "triangles": 816,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_twist_dual_drum.stl": {
+      "triangles": 3340,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    }
+  },
+  "print": {
+    "arm_stage1.stl": {
+      "triangles": 1584,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "arm_stage2.stl": {
+      "triangles": 1584,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "bench_anchor_back.stl": {
+      "triangles": 3080,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "bench_anchor_front.stl": {
+      "triangles": 1740,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "bench_head_stand.stl": {
+      "triangles": 920,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "cable_stop_button.stl": {
+      "triangles": 840,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "column_reaction_bracket.stl": {
+      "triangles": 896,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "deck_splice.stl": {
+      "triangles": 860,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_case_chassis.stl": {
+      "triangles": 6260,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_input_shaft.stl": {
+      "triangles": 908,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_output_gear.stl": {
+      "triangles": 2540,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_output_shaft.stl": {
+      "triangles": 972,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_parallel_axle.stl": {
+      "triangles": 2096,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "elbow_stator.stl": {
+      "triangles": 7232,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_cover_G.stl": {
+      "triangles": 900,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_cover_P.stl": {
+      "triangles": 900,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fairlead_cover_T.stl": {
+      "triangles": 900,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fit_coupon.stl": {
+      "triangles": 3372,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fit_coupon_pin.stl": {
+      "triangles": 836,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "fixed_frame.stl": {
+      "triangles": 8548,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "grip_drum_pinion.stl": {
+      "triangles": 6610,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "grip_pinion_insert.stl": {
+      "triangles": 2296,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "head_connector.stl": {
+      "triangles": 6076,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "head_main_stub.stl": {
+      "triangles": 1256,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "head_parallel_stub.stl": {
+      "triangles": 1256,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "holder_new_inner.stl": {
+      "triangles": 1860,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "holder_old_inner.stl": {
+      "triangles": 1860,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "jaw_lock_pin.stl": {
+      "triangles": 836,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "joint_home_lock_pin.stl": {
+      "triangles": 836,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "joint_input_drum.stl": {
+      "triangles": 2972,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "joint_input_pinion.stl": {
+      "triangles": 816,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "manual_pull_tab.stl": {
+      "triangles": 436,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "module_case_L.stl": {
+      "triangles": 14366,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "module_case_R.stl": {
+      "triangles": 12636,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "parallel_jaw_rack.stl": {
+      "triangles": 924,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "parallel_stage1.stl": {
+      "triangles": 1556,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "parallel_stage2.stl": {
+      "triangles": 1556,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_cam_left.stl": {
+      "triangles": 7722,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_cam_right.stl": {
+      "triangles": 7566,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_rotating_plunger.stl": {
+      "triangles": 1270,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "push_sliding_drive.stl": {
+      "triangles": 5702,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "pusher_follower_pin.stl": {
+      "triangles": 416,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "rear_cable_retainer.stl": {
+      "triangles": 5312,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "return_idler.stl": {
+      "triangles": 1680,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_case_chassis.stl": {
+      "triangles": 6252,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_input_shaft.stl": {
+      "triangles": 908,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_output_gear.stl": {
+      "triangles": 2540,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_output_shaft.stl": {
+      "triangles": 972,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "root_parallel_stub.stl": {
+      "triangles": 1256,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "servo_direct_mount.stl": {
+      "triangles": 2592,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "servo_stepup_mount.stl": {
+      "triangles": 3482,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "shaft_clip_2.stl": {
+      "triangles": 684,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "shaft_clip_3.stl": {
+      "triangles": 672,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "shaft_clip_5.stl": {
+      "triangles": 656,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "spring_cassette.stl": {
+      "triangles": 5022,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "tube_reducer_25.stl": {
+      "triangles": 1680,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_guide_cage.stl": {
+      "triangles": 2968,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_lock_pin.stl": {
+      "triangles": 836,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_return_spool_L.stl": {
+      "triangles": 2436,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_return_spool_R.stl": {
+      "triangles": 1324,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "twist_upper_drum.stl": {
+      "triangles": 7604,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_PTFE_adapter.stl": {
+      "triangles": 2096,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_deck_L.stl": {
+      "triangles": 12716,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_deck_R.stl": {
+      "triangles": 16080,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_direct_drum.stl": {
+      "triangles": 2952,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_driver36.stl": {
+      "triangles": 3248,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_grip_drum.stl": {
+      "triangles": 1708,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_joint_drum.stl": {
+      "triangles": 2972,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_keyed_shaft.stl": {
+      "triangles": 908,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_pinion18.stl": {
+      "triangles": 816,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    },
+    "upper_twist_dual_drum.stl": {
+      "triangles": 5540,
+      "binary_length_matches": true,
+      "non_two_incident_edges": 0
+    }
+  }
+}

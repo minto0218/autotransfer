@@ -1,0 +1,207 @@
+{
+  "scope": "Housing segments against solid cylinder envelopes containing spring bodies/hooks throughout their strokes; 10mm socket lead-ins excluded.",
+  "results": [
+    {
+      "pose": "0",
+      "name": "M1_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M3_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M6_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M2_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M3_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M7_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M5_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "0",
+      "name": "M5_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M1_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M3_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M6_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M2_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M3_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M7_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M5_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "3",
+      "name": "M5_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M1_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M3_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M6_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M2_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M3_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M7_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M5_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "4",
+      "name": "M5_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M1_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M3_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M6_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M2_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M3_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M7_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M5_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "5",
+      "name": "M5_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M1_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M3_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M6_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M2_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M3_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M7_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M5_0",
+      "spring_envelope_surface_gap_mm": 14.2
+    },
+    {
+      "pose": "7",
+      "name": "M5_1",
+      "spring_envelope_surface_gap_mm": 14.2
+    }
+  ],
+  "minimum_gap_mm": 14.2,
+  "contacts": []
+}

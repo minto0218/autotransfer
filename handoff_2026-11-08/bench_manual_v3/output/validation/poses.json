@@ -1,0 +1,146 @@
+[
+  {
+    "label": "初期・開口35mm・固定ピンあり",
+    "gap": 35,
+    "twist": 0,
+    "push": 0,
+    "locks": true,
+    "press_lock_on": true,
+    "relative": -0.0,
+    "grip_angle": 0.0,
+    "pull_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "label": "開口25mm・把持の確認",
+    "gap": 25,
+    "twist": 0,
+    "push": 0,
+    "press_lock_on": true,
+    "relative": -47.74648292756861,
+    "grip_angle": -47.74648292756861,
+    "pull_mm": [
+      8.541666666666668,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "label": "開口5mm・最小開口の確認",
+    "gap": 5,
+    "twist": 0,
+    "push": 0,
+    "press_lock_on": true,
+    "relative": -143.2394487827058,
+    "grip_angle": -143.2394487827058,
+    "pull_mm": [
+      25.625,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "label": "開口25mmを保って＋30°ねじり",
+    "gap": 25,
+    "twist": 30,
+    "push": 0,
+    "press_lock_on": true,
+    "relative": -47.74648292756861,
+    "grip_angle": -17.746482927568607,
+    "pull_mm": [
+      3.174779216784104,
+      6.8067840827778845,
+      0.0
+    ]
+  },
+  {
+    "label": "ねじりを0°の戻り端へ復帰",
+    "gap": 25,
+    "twist": 0,
+    "push": 0,
+    "press_lock_on": true,
+    "relative": -47.74648292756861,
+    "grip_angle": -47.74648292756861,
+    "pull_mm": [
+      8.541666666666668,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "label": "押込み10mm・60°回転",
+    "gap": 35,
+    "twist": 0,
+    "push": 10,
+    "press_lock_on": false,
+    "relative": -0.0,
+    "grip_angle": 0.0,
+    "pull_mm": [
+      -0.0,
+      0.0,
+      7.644542123735163
+    ]
+  },
+  {
+    "label": "押込み20mm・120°回転",
+    "gap": 35,
+    "twist": 0,
+    "push": 20,
+    "press_lock_on": false,
+    "relative": -0.0,
+    "grip_angle": 0.0,
+    "pull_mm": [
+      -0.0,
+      0.0,
+      15.289084247470326
+    ]
+  },
+  {
+    "label": "初期位置へ復帰・ピンを再装着",
+    "gap": 35,
+    "twist": 0,
+    "push": 0,
+    "locks": true,
+    "press_lock_on": true,
+    "relative": -0.0,
+    "grip_angle": 0.0,
+    "pull_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "label": "分解図：組立順の確認",
+    "gap": 35,
+    "twist": 0,
+    "push": 0,
+    "explode": true,
+    "press_lock_on": true,
+    "relative": -0.0,
+    "grip_angle": 0.0,
+    "pull_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  },
+  {
+    "label": "押込み準備：棒の上端固定ピンを抜く",
+    "gap": 35,
+    "twist": 0,
+    "push": 0,
+    "press_lock": false,
+    "press_lock_on": false,
+    "relative": -0.0,
+    "grip_angle": 0.0,
+    "pull_mm": [
+      -0.0,
+      0.0,
+      0.0
+    ]
+  }
+]

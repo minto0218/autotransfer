@@ -1,0 +1,526 @@
+{
+  "version": "0.12",
+  "date_jst": "2026-11-04",
+  "generated_utc": "2026-11-04T03:35:20.861812+00:00",
+  "export_core_source_match": true,
+  "source_hashes": {
+    "build.py": "bad06c65cfd7b11b7415d4246dc3a3c34b79719ab965f6fe408322263f6aebc0",
+    "head.py": "b2e16aabb96306acfbf08e5bd06e493a80409d1fdb07125d5b3434ac58ac0c1c",
+    "prototype.py": "a290bc2d365d134f5b6f9124cb3a0661801cb595e8db9d2e45bf1bb501926093",
+    "retention.py": "11480f7b2d34adf2b6c826c74cc9af4f3b6f8d1aae2b3339de11ab8c0885e31a",
+    "mechanism.py": "215fc35279d37479027fcab36ad257dbf9139f5dd2dbb44e12f7e5bc1bbcb879",
+    "drive.py": "d5fcf4d4d7cf5a956f41134226ab19dc7f55bfa9744a1ff0c83d6b70c722c303",
+    "mesh_cache.py": "4cefc5351f3790d6794ee91c5a2f83def485f649805ec5e1b30a6b4ff9d3da3b",
+    "parameters.json": "13ae120226e20811e0a5422c3f34c167ba1af95b20d9395b52890e85c7373df4"
+  },
+  "rigid_pose_count": 21,
+  "rigid_contacts": [],
+  "mesh_pose_errors": [],
+  "local_return_audit": {
+    "scope": "Bare return strands against rigid parts after leaving each winding drum.\nWound arcs, knots and intended spring contacts are excluded from this local check.\n",
+    "results": [
+      {
+        "state": 0,
+        "return_tag": "grip",
+        "surface_gap_mm": 0.04851778308390009,
+        "nearest": "old_return_idler_0"
+      },
+      {
+        "state": 0,
+        "return_tag": "twist",
+        "surface_gap_mm": 0.04816802419639066,
+        "nearest": "old_return_idler_1"
+      },
+      {
+        "state": 0,
+        "return_tag": "press",
+        "surface_gap_mm": 0.04818688860700876,
+        "nearest": "old_return_idler_2"
+      },
+      {
+        "state": 2,
+        "return_tag": "grip",
+        "surface_gap_mm": 0.04851778308390009,
+        "nearest": "old_return_idler_0"
+      },
+      {
+        "state": 2,
+        "return_tag": "twist",
+        "surface_gap_mm": 0.04816802419639066,
+        "nearest": "old_return_idler_1"
+      },
+      {
+        "state": 2,
+        "return_tag": "press",
+        "surface_gap_mm": 0.04818688860700876,
+        "nearest": "old_return_idler_2"
+      },
+      {
+        "state": 11,
+        "return_tag": "grip",
+        "surface_gap_mm": 0.04851778308390009,
+        "nearest": "old_return_idler_0"
+      },
+      {
+        "state": 11,
+        "return_tag": "twist",
+        "surface_gap_mm": 0.04816802419639066,
+        "nearest": "old_return_idler_1"
+      },
+      {
+        "state": 11,
+        "return_tag": "press",
+        "surface_gap_mm": 0.04818688860700876,
+        "nearest": "old_return_idler_2"
+      },
+      {
+        "state": 14,
+        "return_tag": "grip",
+        "surface_gap_mm": 0.04851778308390009,
+        "nearest": "old_return_idler_0"
+      },
+      {
+        "state": 14,
+        "return_tag": "twist",
+        "surface_gap_mm": 0.04816802419639066,
+        "nearest": "old_return_idler_1"
+      },
+      {
+        "state": 14,
+        "return_tag": "press",
+        "surface_gap_mm": 0.04818688860700876,
+        "nearest": "old_return_idler_2"
+      },
+      {
+        "state": 16,
+        "return_tag": "grip",
+        "surface_gap_mm": 0.04851778308390009,
+        "nearest": "old_return_idler_0"
+      },
+      {
+        "state": 16,
+        "return_tag": "twist",
+        "surface_gap_mm": 0.04816802419639066,
+        "nearest": "old_return_idler_1"
+      },
+      {
+        "state": 16,
+        "return_tag": "press",
+        "surface_gap_mm": 0.04818688860700876,
+        "nearest": "old_return_idler_2"
+      }
+    ],
+    "penetrations": []
+  },
+  "horizontal_spring_audit": {
+    "scope": "Horizontal spring solid stroke envelopes vs rigid geometry at five representative poses.\nThe fixed spring hook screws are intended contacts and excluded. Springs are represented\nby conservative OD2.5 cylinders; knots and exact spring hook clocking remain physical checks.\n",
+    "rows": [
+      {
+        "state": 0,
+        "side": "old",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 0,
+        "side": "old",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 0,
+        "side": "old",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "old_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 0,
+        "side": "new",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 0,
+        "side": "new",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 0,
+        "side": "new",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "new_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 2,
+        "side": "old",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 2,
+        "side": "old",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 2,
+        "side": "old",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "old_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 2,
+        "side": "new",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 2,
+        "side": "new",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 2,
+        "side": "new",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "new_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 11,
+        "side": "old",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 11,
+        "side": "old",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 11,
+        "side": "old",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "old_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 11,
+        "side": "new",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 11,
+        "side": "new",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 11,
+        "side": "new",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "new_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 14,
+        "side": "old",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 14,
+        "side": "old",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 14,
+        "side": "old",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "old_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 14,
+        "side": "new",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 14,
+        "side": "new",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 14,
+        "side": "new",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "new_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 16,
+        "side": "old",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 16,
+        "side": "old",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "old_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 16,
+        "side": "old",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "old_spring_cassette",
+        "contacts": []
+      },
+      {
+        "state": 16,
+        "side": "new",
+        "spring": "grip",
+        "min_rigid_gap_mm": 1.2624689052802225,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 16,
+        "side": "new",
+        "spring": "twist",
+        "min_rigid_gap_mm": 1.6654759474226504,
+        "nearest": "new_chassis_R",
+        "contacts": []
+      },
+      {
+        "state": 16,
+        "side": "new",
+        "spring": "press",
+        "min_rigid_gap_mm": 2.25,
+        "nearest": "new_spring_cassette",
+        "contacts": []
+      }
+    ],
+    "contacts": [],
+    "nominal_inter_spring_surface_gap_mm": 1.0
+  },
+  "validation_note": "Fresh final horizontal-spring geometry checked at 21 rigid poses; separate wheel insertion and common axle assembly paths, return strand paths and conservative full-stroke spring body cylinders are included.",
+  "assembly_distance_tests": 519,
+  "assembly_path_contacts": [],
+  "pitch_mm": 52.0,
+  "inter_head_rotation_gap_mm": 2.0,
+  "rotation_containment_failures": [],
+  "shared_support_contacts": [],
+  "own_fixed_operating_range_deg": [
+    -30,
+    30
+  ],
+  "upper_return_is_360_capable": false,
+  "stl_part_types": {
+    "stl": 89,
+    "print": 71
+  },
+  "stl_failed": {
+    "stl": [],
+    "print": []
+  },
+  "print_A1_fit": true,
+  "print_single_solid": true,
+  "step_files": [
+    {
+      "file": "assembly_0.step",
+      "valid": true,
+      "solids": 255,
+      "bbox_mm": [
+        294.25,
+        240.0,
+        290.25
+      ]
+    },
+    {
+      "file": "assembly_11.step",
+      "valid": true,
+      "solids": 247,
+      "bbox_mm": [
+        294.25,
+        240.0,
+        290.25
+      ]
+    },
+    {
+      "file": "assembly_18.step",
+      "valid": true,
+      "solids": 55,
+      "bbox_mm": [
+        114.00000010000345,
+        62.0,
+        157.89999999999998
+      ]
+    },
+    {
+      "file": "assembly_5.step",
+      "valid": true,
+      "solids": 247,
+      "bbox_mm": [
+        294.25,
+        240.0,
+        290.25
+      ]
+    },
+    {
+      "file": "bench_head.step",
+      "valid": true,
+      "solids": 64,
+      "bbox_mm": [
+        60.0,
+        78.0,
+        92.0
+      ]
+    },
+    {
+      "file": "module_new.step",
+      "valid": true,
+      "solids": 58,
+      "bbox_mm": [
+        41.000000100003454,
+        62.0,
+        66.0
+      ]
+    },
+    {
+      "file": "module_old.step",
+      "valid": true,
+      "solids": 58,
+      "bbox_mm": [
+        41.000000100003454,
+        62.0,
+        66.0
+      ]
+    }
+  ],
+  "cable_candidates": 40,
+  "cable_min_rigid_gap_mm": 1.51914748723085,
+  "cable_min_bend_r_mm": 30.40000000097004,
+  "cable_max_length_error_mm": 0.14844152156842938,
+  "cable_unmet": [],
+  "cable_design_lengths_mm": {
+    "M5_1": [
+      240
+    ],
+    "M2_0": [
+      360
+    ],
+    "M3_1": [
+      400
+    ],
+    "M6_0": [
+      360
+    ],
+    "M5_0": [
+      240
+    ],
+    "M1_0": [
+      360
+    ],
+    "M3_0": [
+      360
+    ],
+    "M7_0": [
+      360
+    ]
+  },
+  "cable_same_length_all_poses": true,
+  "cable_pair_tests": 225,
+  "cable_pair_min_gap_mm": 2.7835602669935504,
+  "cable_pair_contacts": [],
+  "cable_spring_min_gap_mm": 14.2,
+  "cable_spring_contacts": [],
+  "spring": {
+    "model": "JB-14",
+    "per_head": 3,
+    "free_length_mm": 14,
+    "OD_mm": 2.5,
+    "k_N_per_mm": 0.05,
+    "allowed_extension_mm": 20.4,
+    "nominal_max_extension_mm": [
+      16.188790204786393,
+      6.1887902047863905,
+      9.539822368615503
+    ],
+    "hook_space": "Horizontal springs at X18, fixed Y18, one common side plate. Three idlers share a removable axle; moving hook ties directly to PE line",
+    "force_tested": false
+  },
+  "browser": {
+    "browser": "Chrome (headless)",
+    "states_clicked": 29,
+    "page_errors": [],
+    "webgl_error": 0,
+    "canvas": {
+      "width": 1130,
+      "height": 922,
+      "webgl": true
+    }
+  },
+  "limitations": [
+    "No physical print/assembly/motor test performed",
+    "Slicer supports, thread tapping, actual servo horn fit and small-head fastener selection need hands-on confirmation",
+    "PE knots, PTFE compression, friction and same-tube continuous deformation unmeasured",
+    "No durability or full180deg vial-transfer qualification"
+  ],
+  "checks_pass": true
+}

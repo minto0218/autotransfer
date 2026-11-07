@@ -1,0 +1,390 @@
+{
+  "states": 9,
+  "rigid_contacts": [],
+  "straight_hand_line_checks": [
+    {
+      "state": 0,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 0,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 0,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 1,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 1,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 1,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 2,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 2,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 2,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 3,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 3,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 3,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 4,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 4,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 4,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 5,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 5,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 5,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 6,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 6,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 6,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 7,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 7,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 7,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    },
+    {
+      "state": 9,
+      "tag": "G",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_G"
+    },
+    {
+      "state": 9,
+      "tag": "T",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_T"
+    },
+    {
+      "state": 9,
+      "tag": "P",
+      "clearance_mm": 0.4499999999999996,
+      "nearest": "handle_P"
+    }
+  ],
+  "straight_hand_line_contacts": [],
+  "steps": [
+    {
+      "file": "卓上手動治具_分解.step",
+      "valid": true,
+      "solids": 72,
+      "bbox_mm": [
+        122.50000019999999,
+        78.3,
+        157.0
+      ]
+    },
+    {
+      "file": "卓上手動治具_押込み20mm.step",
+      "valid": true,
+      "solids": 71,
+      "bbox_mm": [
+        60.0,
+        78.3,
+        125.0
+      ]
+    },
+    {
+      "file": "卓上手動治具_組立.step",
+      "valid": true,
+      "solids": 74,
+      "bbox_mm": [
+        60.0,
+        78.3,
+        125.0
+      ]
+    }
+  ],
+  "stl": {
+    "bench_head_stand.stl": {
+      "triangles": 1088,
+      "closed": true,
+      "length_valid": true
+    },
+    "cable_stop_button.stl": {
+      "triangles": 1008,
+      "closed": true,
+      "length_valid": true
+    },
+    "case_alignment_key.stl": {
+      "triangles": 12,
+      "closed": true,
+      "length_valid": true
+    },
+    "fairlead_cover_G.stl": {
+      "triangles": 972,
+      "closed": true,
+      "length_valid": true
+    },
+    "fairlead_cover_P.stl": {
+      "triangles": 1076,
+      "closed": true,
+      "length_valid": true
+    },
+    "fairlead_cover_T.stl": {
+      "triangles": 1076,
+      "closed": true,
+      "length_valid": true
+    },
+    "fit_coupon.stl": {
+      "triangles": 4044,
+      "closed": true,
+      "length_valid": true
+    },
+    "fit_coupon_pin.stl": {
+      "triangles": 1004,
+      "closed": true,
+      "length_valid": true
+    },
+    "grip_drum_pinion.stl": {
+      "triangles": 7960,
+      "closed": true,
+      "length_valid": true
+    },
+    "grip_pinion_insert.stl": {
+      "triangles": 2536,
+      "closed": true,
+      "length_valid": true
+    },
+    "jaw_guide_endcap.stl": {
+      "triangles": 1044,
+      "closed": true,
+      "length_valid": true
+    },
+    "jaw_lock_pin.stl": {
+      "triangles": 1004,
+      "closed": true,
+      "length_valid": true
+    },
+    "manual_pull_tab.stl": {
+      "triangles": 520,
+      "closed": true,
+      "length_valid": true
+    },
+    "module_case_L.stl": {
+      "triangles": 18472,
+      "closed": true,
+      "length_valid": true
+    },
+    "module_case_R.stl": {
+      "triangles": 16940,
+      "closed": true,
+      "length_valid": true
+    },
+    "opening_gauge_5.stl": {
+      "triangles": 28,
+      "closed": true,
+      "length_valid": true
+    },
+    "parallel_jaw_rack.stl": {
+      "triangles": 1028,
+      "closed": true,
+      "length_valid": true
+    },
+    "press_home_lock_pin.stl": {
+      "triangles": 1004,
+      "closed": true,
+      "length_valid": true
+    },
+    "push_cam_alignment_key.stl": {
+      "triangles": 12,
+      "closed": true,
+      "length_valid": true
+    },
+    "push_cam_left.stl": {
+      "triangles": 8882,
+      "closed": true,
+      "length_valid": true
+    },
+    "push_cam_right.stl": {
+      "triangles": 8662,
+      "closed": true,
+      "length_valid": true
+    },
+    "push_rotating_plunger.stl": {
+      "triangles": 2034,
+      "closed": true,
+      "length_valid": true
+    },
+    "push_sliding_drive.stl": {
+      "triangles": 6880,
+      "closed": true,
+      "length_valid": true
+    },
+    "pusher_follower_pin.stl": {
+      "triangles": 500,
+      "closed": true,
+      "length_valid": true
+    },
+    "rear_cable_retainer.stl": {
+      "triangles": 6352,
+      "closed": true,
+      "length_valid": true
+    },
+    "return_idler.stl": {
+      "triangles": 2016,
+      "closed": true,
+      "length_valid": true
+    },
+    "spring_cassette.stl": {
+      "triangles": 10504,
+      "closed": true,
+      "length_valid": true
+    },
+    "tube_reducer_25.stl": {
+      "triangles": 2016,
+      "closed": true,
+      "length_valid": true
+    },
+    "twist_guide_cage.stl": {
+      "triangles": 6316,
+      "closed": true,
+      "length_valid": true
+    },
+    "twist_lock_pin.stl": {
+      "triangles": 1004,
+      "closed": true,
+      "length_valid": true
+    },
+    "twist_motion_follower.stl": {
+      "triangles": 516,
+      "closed": true,
+      "length_valid": true
+    },
+    "twist_return_spool_L.stl": {
+      "triangles": 2900,
+      "closed": true,
+      "length_valid": true
+    },
+    "twist_return_spool_R.stl": {
+      "triangles": 1572,
+      "closed": true,
+      "length_valid": true
+    },
+    "twist_upper_drum.stl": {
+      "triangles": 9142,
+      "closed": true,
+      "length_valid": true
+    }
+  },
+  "print_types": 34,
+  "print_pieces": 47,
+  "all_single_solid": true,
+  "all_A1_fit": true,
+  "assembly_paths": {
+    "sampled_distance_tests": 1499,
+    "contacts": [],
+    "hex_insertion_fits": [],
+    "scope": "Selected home-pose case/cam closing, lower-stack insertion, rod insertion without cross pin. Fasteners removed in the stated order. No tool envelope, elastic clip insertion, knot or hand-access certification."
+  },
+  "scope": "Manual bench discrete geometry and deliverable checks; not physical qualification.",
+  "limitations": [
+    "Discrete poses, not continuous sweep",
+    "Wrapped main and return lines, knots, spring force/friction, exact hook clocking and tool/hand access not certified",
+    "No physical print, assembly or motor test"
+  ],
+  "pass": true
+}

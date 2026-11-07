@@ -1,0 +1,10 @@
+{
+  "browser": "Chrome headless",
+  "states": 10,
+  "views": 7,
+  "individual_parts": 48,
+  "page_errors": [],
+  "webgl_error": 0,
+  "initial_load_ms": 352,
+  "html_bytes": 970931
+}

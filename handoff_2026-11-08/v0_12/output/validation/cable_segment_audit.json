@@ -1,0 +1,365 @@
+{
+  "scope": "BRep distance of piecewise-linear candidate housing centre lines, minus prototype housing radius0.8mm; 10mm socket lead-in at each end excluded. No cable-cable, continuous curvature shape, friction, force or moving-path proof.",
+  "results": [
+    {
+      "pose": "0",
+      "name": "M1_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 134,
+      "length_error_mm": 5.245603915682295e-07,
+      "min_bend_r_mm": 30.999999319899686
+    },
+    {
+      "pose": "0",
+      "name": "M3_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 119,
+      "length_error_mm": -5.684341886080802e-14,
+      "min_bend_r_mm": 33.39687395444016
+    },
+    {
+      "pose": "0",
+      "name": "M6_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 123,
+      "length_error_mm": 2.205524651799351e-11,
+      "min_bend_r_mm": 30.999999999973593
+    },
+    {
+      "pose": "0",
+      "name": "M2_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 86,
+      "length_error_mm": 3.256525360484375e-08,
+      "min_bend_r_mm": 34.56888470254306
+    },
+    {
+      "pose": "0",
+      "name": "M3_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 132,
+      "length_error_mm": -2.5590168206690578e-08,
+      "min_bend_r_mm": 31.0000124923049
+    },
+    {
+      "pose": "0",
+      "name": "M7_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 139,
+      "length_error_mm": -3.361037670401856e-08,
+      "min_bend_r_mm": 34.17512830699962
+    },
+    {
+      "pose": "0",
+      "name": "M5_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 135,
+      "length_error_mm": 2.2737367544323206e-13,
+      "min_bend_r_mm": 30.99999999999958
+    },
+    {
+      "pose": "0",
+      "name": "M5_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 118,
+      "length_error_mm": 0.019473262387123214,
+      "min_bend_r_mm": 30.42157883302529
+    },
+    {
+      "pose": "3",
+      "name": "M1_0",
+      "surface_clearance_mm": 3.613660356802506,
+      "nearest_part": "reaction_bracket_-1",
+      "brep_distance_tests": 128,
+      "length_error_mm": 2.5044982976396568e-08,
+      "min_bend_r_mm": 32.99999608811206
+    },
+    {
+      "pose": "3",
+      "name": "M3_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 118,
+      "length_error_mm": 2.2819574496679706e-07,
+      "min_bend_r_mm": 32.99998305555471
+    },
+    {
+      "pose": "3",
+      "name": "M6_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 115,
+      "length_error_mm": 3.9312908484134823e-10,
+      "min_bend_r_mm": 31.665099898231468
+    },
+    {
+      "pose": "3",
+      "name": "M2_0",
+      "surface_clearance_mm": 5.32502273802507,
+      "nearest_part": "upper_deck_R",
+      "brep_distance_tests": 106,
+      "length_error_mm": -4.6166292122507e-08,
+      "min_bend_r_mm": 42.56227245662339
+    },
+    {
+      "pose": "3",
+      "name": "M3_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 116,
+      "length_error_mm": -2.4720350211282494e-08,
+      "min_bend_r_mm": 48.954627534889724
+    },
+    {
+      "pose": "3",
+      "name": "M7_0",
+      "surface_clearance_mm": 2.792635430477463,
+      "nearest_part": "elbow_parallel_shaft_clip_1",
+      "brep_distance_tests": 199,
+      "length_error_mm": 0.14844152156842938,
+      "min_bend_r_mm": 30.40000000097004
+    },
+    {
+      "pose": "3",
+      "name": "M5_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 168,
+      "length_error_mm": 0.0,
+      "min_bend_r_mm": 30.99999999999988
+    },
+    {
+      "pose": "3",
+      "name": "M5_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 93,
+      "length_error_mm": 2.711544766498264e-09,
+      "min_bend_r_mm": 30.999999998503476
+    },
+    {
+      "pose": "4",
+      "name": "M1_0",
+      "surface_clearance_mm": 2.595250934634227,
+      "nearest_part": "old_fairlead_cover_T",
+      "brep_distance_tests": 165,
+      "length_error_mm": 2.7297130600345554e-07,
+      "min_bend_r_mm": 30.999999870651624
+    },
+    {
+      "pose": "4",
+      "name": "M3_0",
+      "surface_clearance_mm": 2.751731269347161,
+      "nearest_part": "new_spring_cassette",
+      "brep_distance_tests": 99,
+      "length_error_mm": 0.023499595502130433,
+      "min_bend_r_mm": 32.20319011958019
+    },
+    {
+      "pose": "4",
+      "name": "M6_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 144,
+      "length_error_mm": 0.0,
+      "min_bend_r_mm": 31.123660339714828
+    },
+    {
+      "pose": "4",
+      "name": "M2_0",
+      "surface_clearance_mm": 6.036572944469649,
+      "nearest_part": "upper_deck_R",
+      "brep_distance_tests": 66,
+      "length_error_mm": -4.464254743652418e-08,
+      "min_bend_r_mm": 31.00010761408968
+    },
+    {
+      "pose": "4",
+      "name": "M3_1",
+      "surface_clearance_mm": 4.170013012632411,
+      "nearest_part": "upper_deck_R",
+      "brep_distance_tests": 92,
+      "length_error_mm": 1.3460930858855136e-07,
+      "min_bend_r_mm": 40.52911434912704
+    },
+    {
+      "pose": "4",
+      "name": "M7_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 121,
+      "length_error_mm": 4.344151420809794e-07,
+      "min_bend_r_mm": 30.99999966894639
+    },
+    {
+      "pose": "4",
+      "name": "M5_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 233,
+      "length_error_mm": -9.590962690708693e-09,
+      "min_bend_r_mm": 32.99999999694921
+    },
+    {
+      "pose": "4",
+      "name": "M5_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 104,
+      "length_error_mm": 6.688992471026722e-09,
+      "min_bend_r_mm": 31.00267132723741
+    },
+    {
+      "pose": "5",
+      "name": "M1_0",
+      "surface_clearance_mm": 2.974757947036913,
+      "nearest_part": "old_jaw_1",
+      "brep_distance_tests": 197,
+      "length_error_mm": 2.5953943350032205e-07,
+      "min_bend_r_mm": 40.77933684073856
+    },
+    {
+      "pose": "5",
+      "name": "M3_0",
+      "surface_clearance_mm": 3.6532537536599765,
+      "nearest_part": "stage2_parallel_-1",
+      "brep_distance_tests": 201,
+      "length_error_mm": 1.1368683772161603e-13,
+      "min_bend_r_mm": 31.000360158905597
+    },
+    {
+      "pose": "5",
+      "name": "M6_0",
+      "surface_clearance_mm": 3.469693427888365,
+      "nearest_part": "elbow_parallel_shaft",
+      "brep_distance_tests": 188,
+      "length_error_mm": 0.022398416730879944,
+      "min_bend_r_mm": 32.54499821993842
+    },
+    {
+      "pose": "5",
+      "name": "M2_0",
+      "surface_clearance_mm": 4.196923277772466,
+      "nearest_part": "head_parallel_pin_R",
+      "brep_distance_tests": 144,
+      "length_error_mm": -4.1527528082951903e-08,
+      "min_bend_r_mm": 31.032200280767483
+    },
+    {
+      "pose": "5",
+      "name": "M3_1",
+      "surface_clearance_mm": 4.177294390736846,
+      "nearest_part": "upper_deck_R",
+      "brep_distance_tests": 58,
+      "length_error_mm": 2.277893145219423e-07,
+      "min_bend_r_mm": 30.999987537353572
+    },
+    {
+      "pose": "5",
+      "name": "M7_0",
+      "surface_clearance_mm": 1.51914748723085,
+      "nearest_part": "elbow_parallel_shaft",
+      "brep_distance_tests": 193,
+      "length_error_mm": 0.02931834372782305,
+      "min_bend_r_mm": 30.917677631960608
+    },
+    {
+      "pose": "5",
+      "name": "M5_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 121,
+      "length_error_mm": -2.842170943040401e-14,
+      "min_bend_r_mm": 31.000020509259326
+    },
+    {
+      "pose": "5",
+      "name": "M5_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 89,
+      "length_error_mm": 3.806803761108313e-10,
+      "min_bend_r_mm": 30.999999997523993
+    },
+    {
+      "pose": "7",
+      "name": "M1_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 125,
+      "length_error_mm": 7.543593653736025e-06,
+      "min_bend_r_mm": 31.000001797437918
+    },
+    {
+      "pose": "7",
+      "name": "M3_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 105,
+      "length_error_mm": 0.10743009816860649,
+      "min_bend_r_mm": 31.878718489012428
+    },
+    {
+      "pose": "7",
+      "name": "M6_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 117,
+      "length_error_mm": 6.55518306302838e-10,
+      "min_bend_r_mm": 31.000842428154197
+    },
+    {
+      "pose": "7",
+      "name": "M2_0",
+      "surface_clearance_mm": 4.031989220289483,
+      "nearest_part": "fixed_frame",
+      "brep_distance_tests": 101,
+      "length_error_mm": -3.7756660731247393e-07,
+      "min_bend_r_mm": 32.999984136545386
+    },
+    {
+      "pose": "7",
+      "name": "M3_1",
+      "surface_clearance_mm": 4.017548143589903,
+      "nearest_part": "new_cable_retainer",
+      "brep_distance_tests": 112,
+      "length_error_mm": -2.0123252397752367e-08,
+      "min_bend_r_mm": 32.428210690113175
+    },
+    {
+      "pose": "7",
+      "name": "M7_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 135,
+      "length_error_mm": 1.4484613814147451e-05,
+      "min_bend_r_mm": 32.090204583390836
+    },
+    {
+      "pose": "7",
+      "name": "M5_0",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 168,
+      "length_error_mm": -7.605649443576112e-11,
+      "min_bend_r_mm": 31.00416137272243
+    },
+    {
+      "pose": "7",
+      "name": "M5_1",
+      "surface_clearance_mm": 7.2,
+      "nearest_part": null,
+      "brep_distance_tests": 100,
+      "length_error_mm": 0.0,
+      "min_bend_r_mm": 31.00000187542192
+    }
+  ]
+}

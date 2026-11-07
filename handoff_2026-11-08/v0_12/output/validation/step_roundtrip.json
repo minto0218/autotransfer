@@ -1,0 +1,72 @@
+[
+  {
+    "file": "assembly_0.step",
+    "valid": true,
+    "solids": 255,
+    "bbox_mm": [
+      294.25,
+      240.0,
+      290.25
+    ]
+  },
+  {
+    "file": "assembly_11.step",
+    "valid": true,
+    "solids": 247,
+    "bbox_mm": [
+      294.25,
+      240.0,
+      290.25
+    ]
+  },
+  {
+    "file": "assembly_18.step",
+    "valid": true,
+    "solids": 55,
+    "bbox_mm": [
+      114.00000010000345,
+      62.0,
+      157.89999999999998
+    ]
+  },
+  {
+    "file": "assembly_5.step",
+    "valid": true,
+    "solids": 247,
+    "bbox_mm": [
+      294.25,
+      240.0,
+      290.25
+    ]
+  },
+  {
+    "file": "bench_head.step",
+    "valid": true,
+    "solids": 64,
+    "bbox_mm": [
+      60.0,
+      78.0,
+      92.0
+    ]
+  },
+  {
+    "file": "module_new.step",
+    "valid": true,
+    "solids": 58,
+    "bbox_mm": [
+      41.000000100003454,
+      62.0,
+      66.0
+    ]
+  },
+  {
+    "file": "module_old.step",
+    "valid": true,
+    "solids": 58,
+    "bbox_mm": [
+      41.000000100003454,
+      62.0,
+      66.0
+    ]
+  }
+]

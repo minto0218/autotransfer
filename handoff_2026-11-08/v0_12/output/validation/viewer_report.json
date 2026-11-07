@@ -1,0 +1,11 @@
+{
+  "browser": "Chrome (headless)",
+  "states_clicked": 29,
+  "page_errors": [],
+  "webgl_error": 0,
+  "canvas": {
+    "width": 1130,
+    "height": 922,
+    "webgl": true
+  }
+}

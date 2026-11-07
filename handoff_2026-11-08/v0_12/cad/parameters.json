@@ -1,0 +1,71 @@
+{
+  "version": "0.12",
+  "vial_pitch": 52.0,
+  "vial_d": 23.0,
+  "vial_h": 96.0,
+  "sponge_d": 30.0,
+  "sponge_length": 30.0,
+  "closed_sponge_top": 107.0,
+  "jaw_pad_z": 100.0,
+  "jaw_pad_h": 5.0,
+  "opening_max": 35.0,
+  "opening_min": 5.0,
+  "root_y": -70.0,
+  "root_z": 116.0,
+  "link1": 40.0,
+  "link2": 50.0,
+  "parallel_offset": 14.0,
+  "post_x": 91.0,
+  "deck_z": 240.0,
+  "head_home_z": 116.0,
+  "head_staging_z": 135.0,
+  "push_foot_home_local_z": -8.0,
+  "push_stroke": 20.0,
+  "push_cam_angle": 120.0,
+  "push_capstan_r": 7.3,
+  "wire_d": 0.3,
+  "housing_od": 1.6,
+  "housing_id": 0.8,
+  "housing_design_bend_r": 30.0,
+  "root_pin_teeth": 18,
+  "root_wheel_teeth": 38,
+  "joint_module": 0.5,
+  "joint_input_r": 8.2,
+  "joint_motor_r": 16.5,
+  "grip_motor_r": 24.0,
+  "grip_output_r": 10.25,
+  "twist_motor_r": 13.0,
+  "twist_output_r": 13.0,
+  "press_motor_r": 13.0,
+  "servo_travel_assumed": 90.0,
+  "servo_body": [
+    22.8,
+    12.2,
+    28.5
+  ],
+  "root_capstan_x": -109.0,
+  "support_offset": 15.0,
+  "cage_rail_length": 44.4,
+  "rotation_envelope_r": 25.0,
+  "rotation_clearance": 2.0,
+  "twist_operating_min": -30.0,
+  "twist_operating_max": 30.0,
+  "reaction_brace_z": 205.0,
+  "head_ports": {
+    "grip": [
+      10.25,
+      -18.0
+    ],
+    "twist": [
+      -13.0,
+      -18.0
+    ],
+    "press": [
+      -7.3,
+      -15.0
+    ]
+  },
+  "retainer_z": 40.5,
+  "prototype_return_spring": "Tohatsu JB-14, OD2.5 L014 k0.05 initial_not_specified maxextension20.4",
+  "prototype_line_d": 0.3
+}

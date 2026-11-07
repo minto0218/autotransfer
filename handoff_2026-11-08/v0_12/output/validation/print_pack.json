@@ -1,0 +1,1001 @@
+{
+  "parts": [
+    {
+      "part": "fixed_frame",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 377118.871,
+      "bed_bbox_mm": [
+        210.0,
+        230.0,
+        246.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "upper_deck_L",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 117741.675,
+      "bed_bbox_mm": [
+        145.0,
+        190.0,
+        8.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "upper_deck_R",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 117893.445,
+      "bed_bbox_mm": [
+        145.0,
+        190.0,
+        8.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "deck_splice",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 785.525,
+      "bed_bbox_mm": [
+        28.0,
+        10.0,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "arm_stage1",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 983.61,
+      "bed_bbox_mm": [
+        16.0,
+        55.0,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "parallel_stage1",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 485.305,
+      "bed_bbox_mm": [
+        8.0,
+        48.0,
+        2.4
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "arm_stage2",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 1261.946,
+      "bed_bbox_mm": [
+        16.0,
+        65.0,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "parallel_stage2",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 581.305,
+      "bed_bbox_mm": [
+        8.0,
+        58.0,
+        2.4
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "head_main_stub",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 289.537,
+      "bed_bbox_mm": [
+        6.0,
+        6.0,
+        10.5
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "head_parallel_stub",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 127.274,
+      "bed_bbox_mm": [
+        4.0,
+        4.0,
+        10.5
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "root_output_shaft",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 7257.05,
+      "bed_bbox_mm": [
+        198.0,
+        10.0,
+        8.66
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "六角の平面を下にして軸を寝かせる・長い軸の立て印刷を避ける"
+    },
+    {
+      "part": "elbow_output_shaft",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 5569.882,
+      "bed_bbox_mm": [
+        152.0,
+        10.0,
+        8.66
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "六角の平面を下にして軸を寝かせる・長い軸の立て印刷を避ける"
+    },
+    {
+      "part": "root_parallel_stub",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 271.787,
+      "bed_bbox_mm": [
+        4.0,
+        4.0,
+        22.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "elbow_parallel_axle",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 2051.539,
+      "bed_bbox_mm": [
+        164.0,
+        4.0,
+        4.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "長軸を寝かせる・外側の取り除ける支持のみ"
+    },
+    {
+      "part": "elbow_stator",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 7278.185,
+      "bed_bbox_mm": [
+        137.0,
+        40.0,
+        36.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "head_connector",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 3509.76,
+      "bed_bbox_mm": [
+        140.4,
+        38.0,
+        29.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "root_output_gear",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 759.017,
+      "bed_bbox_mm": [
+        19.95,
+        20.0,
+        6.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "joint_home_lock_pin",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 43.48,
+      "bed_bbox_mm": [
+        17.5,
+        4.0,
+        4.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "joint_input_pinion",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 143.151,
+      "bed_bbox_mm": [
+        10.0,
+        9.89,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "root_case_chassis",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 3326.939,
+      "bed_bbox_mm": [
+        14.0,
+        39.5,
+        27.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "root_input_shaft",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 1158.288,
+      "bed_bbox_mm": [
+        112.0,
+        4.0,
+        3.46
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "六角の平面を下にして軸を寝かせる・長い軸の立て印刷を避ける"
+    },
+    {
+      "part": "joint_input_drum",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 1264.85,
+      "bed_bbox_mm": [
+        17.6,
+        17.6,
+        6.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "elbow_output_gear",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 759.017,
+      "bed_bbox_mm": [
+        19.95,
+        20.0,
+        6.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "elbow_case_chassis",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 2836.295,
+      "bed_bbox_mm": [
+        14.0,
+        34.0,
+        27.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "elbow_input_shaft",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 555.534,
+      "bed_bbox_mm": [
+        54.0,
+        4.0,
+        3.46
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "六角の平面を下にして軸を寝かせる・長い軸の立て印刷を避ける"
+    },
+    {
+      "part": "upper_PTFE_adapter",
+      "full_unit_quantity": 10,
+      "one_head_quantity": 0,
+      "volume_mm3": 24.338,
+      "bed_bbox_mm": [
+        4.6,
+        4.6,
+        4.8
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "holder_old_inner",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 1,
+      "volume_mm3": 1370.861,
+      "bed_bbox_mm": [
+        14.0,
+        29.0,
+        13.2
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "module_case_L",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 2668.332,
+      "bed_bbox_mm": [
+        28.5,
+        49.5,
+        16.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "半割の平面をベッドへ・内部案内へサポートを入れない"
+    },
+    {
+      "part": "module_case_R",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 2366.921,
+      "bed_bbox_mm": [
+        30.78,
+        49.5,
+        15.5
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "半割の平面をベッドへ・内部案内へサポートを入れない"
+    },
+    {
+      "part": "twist_upper_drum",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 1500.823,
+      "bed_bbox_mm": [
+        28.0,
+        28.0,
+        4.8
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "twist_guide_cage",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 1610.957,
+      "bed_bbox_mm": [
+        25.6,
+        44.4,
+        13.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "grip_drum_pinion",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 1013.223,
+      "bed_bbox_mm": [
+        21.8,
+        21.8,
+        8.1
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "cable_stop_button",
+      "full_unit_quantity": 6,
+      "one_head_quantity": 3,
+      "volume_mm3": 1.777,
+      "bed_bbox_mm": [
+        2.1,
+        2.1,
+        0.6
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "parallel_jaw_rack",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 2,
+      "volume_mm3": 575.193,
+      "bed_bbox_mm": [
+        17.6,
+        27.0,
+        26.3
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "twist_return_spool_L",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 41.963,
+      "bed_bbox_mm": [
+        11.75,
+        9.3,
+        3.6
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "twist_return_spool_R",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 43.299,
+      "bed_bbox_mm": [
+        11.75,
+        9.3,
+        3.6
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "grip_pinion_insert",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 195.086,
+      "bed_bbox_mm": [
+        12.92,
+        12.92,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "pusher_follower_pin",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 4.948,
+      "bed_bbox_mm": [
+        6.3,
+        1.0,
+        1.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "fairlead_cover_G",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 48.905,
+      "bed_bbox_mm": [
+        9.78,
+        9.78,
+        1.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "案内蓋の平面をベッドへ"
+    },
+    {
+      "part": "fairlead_cover_T",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 48.905,
+      "bed_bbox_mm": [
+        9.78,
+        9.78,
+        1.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "案内蓋の平面をベッドへ"
+    },
+    {
+      "part": "fairlead_cover_P",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 48.905,
+      "bed_bbox_mm": [
+        9.78,
+        9.78,
+        1.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "案内蓋の平面をベッドへ"
+    },
+    {
+      "part": "spring_cassette",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 3434.442,
+      "bed_bbox_mm": [
+        30.0,
+        59.0,
+        37.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "共通側板の外面をベッド側へ・後梁の張出し0.5mm分の薄い支持を板下面へ・輪の軸穴へ支持を入れない"
+    },
+    {
+      "part": "return_idler",
+      "full_unit_quantity": 6,
+      "one_head_quantity": 3,
+      "volume_mm3": 62.948,
+      "bed_bbox_mm": [
+        9.2,
+        9.2,
+        1.2
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "push_cam_left",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 206.61,
+      "bed_bbox_mm": [
+        24.0,
+        6.62,
+        3.38
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "半割面をベッドへ・螺旋溝内のサポート禁止"
+    },
+    {
+      "part": "push_cam_right",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 206.61,
+      "bed_bbox_mm": [
+        24.0,
+        6.62,
+        3.38
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "半割面をベッドへ・螺旋溝内のサポート禁止"
+    },
+    {
+      "part": "push_rotating_plunger",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 402.899,
+      "bed_bbox_mm": [
+        12.0,
+        12.0,
+        58.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "足を下に・ブリム・横穴は印刷後Ø1.1でさらう"
+    },
+    {
+      "part": "push_sliding_drive",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 615.56,
+      "bed_bbox_mm": [
+        16.2,
+        16.2,
+        4.8
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "rear_cable_retainer",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 244.454,
+      "bed_bbox_mm": [
+        29.25,
+        13.8,
+        1.5
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "jaw_lock_pin",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 2,
+      "volume_mm3": 73.073,
+      "bed_bbox_mm": [
+        26.5,
+        4.4,
+        4.4
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "twist_lock_pin",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 1,
+      "volume_mm3": 9.065,
+      "bed_bbox_mm": [
+        2.6,
+        2.6,
+        8.2
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "tube_reducer_25",
+      "full_unit_quantity": 6,
+      "one_head_quantity": 3,
+      "volume_mm3": 45.019,
+      "bed_bbox_mm": [
+        4.8,
+        4.8,
+        4.8
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "holder_new_inner",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 1370.861,
+      "bed_bbox_mm": [
+        14.0,
+        29.0,
+        13.2
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "column_reaction_bracket",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 1349.472,
+      "bed_bbox_mm": [
+        57.03,
+        68.8,
+        8.87
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "斜め梁と縦受けの面を寝かせる"
+    },
+    {
+      "part": "servo_stepup_mount",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 0,
+      "volume_mm3": 8531.981,
+      "bed_bbox_mm": [
+        49.0,
+        38.0,
+        39.25
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "upper_driver36",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 0,
+      "volume_mm3": 714.903,
+      "bed_bbox_mm": [
+        19.0,
+        19.0,
+        4.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "upper_pinion18",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 0,
+      "volume_mm3": 143.151,
+      "bed_bbox_mm": [
+        10.0,
+        9.89,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "upper_keyed_shaft",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 0,
+      "volume_mm3": 202.196,
+      "bed_bbox_mm": [
+        4.0,
+        3.46,
+        20.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "upper_grip_drum",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 2912.517,
+      "bed_bbox_mm": [
+        25.6,
+        25.6,
+        6.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "servo_direct_mount",
+      "full_unit_quantity": 3,
+      "one_head_quantity": 0,
+      "volume_mm3": 4322.5,
+      "bed_bbox_mm": [
+        36.0,
+        26.0,
+        39.25
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "upper_twist_dual_drum",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 5464.699,
+      "bed_bbox_mm": [
+        27.6,
+        27.6,
+        11.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "upper_joint_drum",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 1305.112,
+      "bed_bbox_mm": [
+        18.0,
+        18.0,
+        6.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "upper_direct_drum",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 2704.971,
+      "bed_bbox_mm": [
+        27.6,
+        27.6,
+        5.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "歯車／アームの平面をベッドへ"
+    },
+    {
+      "part": "shaft_clip_3",
+      "full_unit_quantity": 2,
+      "one_head_quantity": 0,
+      "volume_mm3": 31.268,
+      "bed_bbox_mm": [
+        9.6,
+        9.16,
+        0.75
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "shaft_clip_2",
+      "full_unit_quantity": 18,
+      "one_head_quantity": 0,
+      "volume_mm3": 23.694,
+      "bed_bbox_mm": [
+        7.6,
+        7.39,
+        0.75
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "shaft_clip_5",
+      "full_unit_quantity": 4,
+      "one_head_quantity": 0,
+      "volume_mm3": 46.317,
+      "bed_bbox_mm": [
+        13.6,
+        12.59,
+        0.75
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "軸方向をZへ・長軸はブリム"
+    },
+    {
+      "part": "fit_coupon",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 1754.437,
+      "bed_bbox_mm": [
+        36.0,
+        12.0,
+        8.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "fit_coupon_pin",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 144.513,
+      "bed_bbox_mm": [
+        6.0,
+        6.0,
+        9.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "bench_head_stand",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 23017.192,
+      "bed_bbox_mm": [
+        60.0,
+        70.0,
+        55.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    },
+    {
+      "part": "bench_anchor_back",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 5780.205,
+      "bed_bbox_mm": [
+        60.0,
+        23.0,
+        13.2
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "平らな背面をベッドへ・支柱用の開口を上へ"
+    },
+    {
+      "part": "bench_anchor_front",
+      "full_unit_quantity": 1,
+      "one_head_quantity": 0,
+      "volume_mm3": 3976.911,
+      "bed_bbox_mm": [
+        60.0,
+        8.0,
+        9.2
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "平らな背面をベッドへ・支柱用の開口を上へ"
+    },
+    {
+      "part": "manual_pull_tab",
+      "full_unit_quantity": 3,
+      "one_head_quantity": 0,
+      "volume_mm3": 332.607,
+      "bed_bbox_mm": [
+        14.0,
+        8.0,
+        3.0
+      ],
+      "fits_A1_256_with_margin": true,
+      "solids": 1,
+      "notes": "接地面を確認・必要な支持のみ・摺動面への支持を避ける"
+    }
+  ],
+  "all_fit": true,
+  "all_single_solid": true,
+  "scope": "BRep solidity and bounding-box fit, orientation proposals; slicer supports and actual FDM quality require inspection."
+}

@@ -1,0 +1,142 @@
+{
+  "pitch_mm": 52.0,
+  "old_pitch_mm": 52,
+  "outer_radius_bound_mm": 25.0,
+  "vertex_radius_max_mm": 24.91043957861844,
+  "certified_inter_head_gap_mm": 2.0,
+  "minimum_pitch_for_2mm_margin_mm": 52.0,
+  "containment_gaps": [
+    {
+      "gap": 5,
+      "rotating_bodies": 16
+    },
+    {
+      "gap": 10,
+      "rotating_bodies": 16
+    },
+    {
+      "gap": 15,
+      "rotating_bodies": 16
+    },
+    {
+      "gap": 20,
+      "rotating_bodies": 16
+    },
+    {
+      "gap": 25,
+      "rotating_bodies": 16
+    },
+    {
+      "gap": 30,
+      "rotating_bodies": 16
+    },
+    {
+      "gap": 35,
+      "rotating_bodies": 16
+    }
+  ],
+  "containment_failures": [],
+  "shared_support_poses": 25,
+  "shared_support_contacts": [],
+  "strata": [
+    [
+      -16,
+      -11,
+      2.5,
+      22.5
+    ],
+    [
+      -11,
+      3,
+      7,
+      22.5
+    ],
+    [
+      3,
+      4,
+      3.4,
+      25
+    ],
+    [
+      4,
+      7,
+      3.15,
+      25
+    ],
+    [
+      7,
+      7.3,
+      6.5,
+      25
+    ],
+    [
+      7.3,
+      10.5,
+      3.1,
+      25
+    ],
+    [
+      10.5,
+      14,
+      3.2,
+      12.9
+    ],
+    [
+      14,
+      16,
+      3.2,
+      12.9
+    ],
+    [
+      16,
+      19,
+      5,
+      14
+    ],
+    [
+      19,
+      20.6,
+      5,
+      12
+    ],
+    [
+      20.6,
+      22.6,
+      3.4,
+      12
+    ],
+    [
+      22.6,
+      23.1,
+      9,
+      12
+    ]
+  ],
+  "refinement": {
+    "module_chassis": {
+      "before_mm3": 6207.455186253335,
+      "after_mm3": 4820.794015759579,
+      "removed_percent": 22.338641663729998
+    },
+    "arm_stage1": {
+      "before_mm3": 1213.3092312450235,
+      "after_mm3": 983.6101194019465,
+      "removed_percent": 18.931621546089605
+    },
+    "arm_stage2": {
+      "before_mm3": 1611.6455009859492,
+      "after_mm3": 1261.9463891428718,
+      "removed_percent": 21.698265011079886
+    }
+  },
+  "own_fixed_operating_twist_range_deg": [
+    -30,
+    30
+  ],
+  "upper_return_sector_half_angles_deg": [
+    40,
+    46,
+    36
+  ],
+  "scope": "Own fixed-part check uses lower full circles and continuous +/-30deg sectors for the added upper return attachments. Upper return attachments are not360deg-capable. Inter-head exterior uses continuous circular bounds for arbitrary twist angles of both heads. Jaw translation is linear, so maximum radial extent lies at opening endpoints; the grip drum stays within radius11. Strata check own fixed parts at7 openings; shared supports at25 poses. This is geometry, not360degree servo/wire capability, strength, friction or cable dynamics."
+}

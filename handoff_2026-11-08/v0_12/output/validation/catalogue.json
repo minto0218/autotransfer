@@ -1,0 +1,1072 @@
+{
+  "fixed_frame": {
+    "description": "固定ベース・左右根元支持・背面支柱・M4軸受ウィング・上板用M3下穴",
+    "group": "frame",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      210.00000020000007,
+      230.0000002000001,
+      246.00237103907875
+    ],
+    "valid": true
+  },
+  "upper_deck_L": {
+    "description": "A1用上板半割・上面継ぎ板2枚で接続",
+    "group": "frame",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      145.0000002000001,
+      190.0000002000001,
+      8.010242224820018
+    ],
+    "valid": true
+  },
+  "upper_deck_R": {
+    "description": "A1用上板半割・上面継ぎ板2枚で接続",
+    "group": "frame",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      145.00000020000027,
+      190.00000020000027,
+      8.015679410865175
+    ],
+    "valid": true
+  },
+  "holder_M2_bolt": {
+    "description": "ホルダーM2×6・頭は円周切欠き内へ",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      3.6034142082733216,
+      3.6051208075147594,
+      7.504836711720539
+    ],
+    "valid": true
+  },
+  "holder_M2_nut": {
+    "description": "底面から入れるホルダー用M2ナット",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      4.600000200000001,
+      3.9837170574084206,
+      1.6037935425259127
+    ],
+    "valid": true
+  },
+  "deck_splice": {
+    "description": "上板中央継ぎ板・M3×2",
+    "group": "frame",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      28.000000200000006,
+      10.000000200000008,
+      3.0064488822940802
+    ],
+    "valid": true
+  },
+  "M3_splice_screw": {
+    "description": "継ぎ板M3×7・上板下穴をM3タップ仕上げ",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      5.405121212409983,
+      5.407681111272139,
+      9.00730238436239
+    ],
+    "valid": true
+  },
+  "M3_deck_screw": {
+    "description": "上板固定M3×10・下穴をM3タップ仕上げ",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      5.405121212409983,
+      5.407681111272139,
+      12.00730238436239
+    ],
+    "valid": true
+  },
+  "arm_stage1": {
+    "description": "第1段の駆動アーム・根元六角座／先端丸軸受",
+    "group": "arm",
+    "solids": 1,
+    "before_refinement_volume_mm3": 1213.3092312450235,
+    "count": 2,
+    "bbox_mm": [
+      3.0310735471275367,
+      55.0155368735638,
+      16.011184286630296
+    ],
+    "valid": true
+  },
+  "parallel_stage1": {
+    "description": "姿勢を保つ受動平行リンク parallel_stage1",
+    "group": "arm",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      2.415536873563755,
+      48.015536873563754,
+      8.005592243315128
+    ],
+    "valid": true
+  },
+  "arm_stage2": {
+    "description": "第2段の駆動アーム・根元六角座／先端丸軸受",
+    "group": "arm",
+    "solids": 1,
+    "before_refinement_volume_mm3": 1611.6455009859492,
+    "count": 2,
+    "bbox_mm": [
+      3.0310735471275367,
+      65.0155368735638,
+      16.011184286630296
+    ],
+    "valid": true
+  },
+  "parallel_stage2": {
+    "description": "姿勢を保つ受動平行リンク parallel_stage2",
+    "group": "arm",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      2.415536873563755,
+      58.015536873563754,
+      8.005592243315128
+    ],
+    "valid": true
+  },
+  "head_main_stub": {
+    "description": "ヘッド主支点の短軸・中央を横切らない・端部抜け止め溝",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      10.511380227577737,
+      6.008534545857932,
+      6.005690213788871
+    ],
+    "valid": true
+  },
+  "head_parallel_stub": {
+    "description": "ヘッド受動リンクの短軸・端部抜け止め溝",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      10.507586885051825,
+      4.005689763905288,
+      4.003793542525914
+    ],
+    "valid": true
+  },
+  "root_output_shaft": {
+    "description": "中央M4から左右へ出力する共通中空軸・端部抜け止め溝",
+    "group": "arm",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      198.01138022757775,
+      8.67754056061144,
+      10.00000020000008
+    ],
+    "valid": true
+  },
+  "elbow_output_shaft": {
+    "description": "中央M5から左右へ出力する共通中空軸・端部抜け止め溝",
+    "group": "arm",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      152.01138022757775,
+      8.67754056061144,
+      10.000000200000045
+    ],
+    "valid": true
+  },
+  "root_parallel_stub": {
+    "description": "根元受動リンクの左右別短軸・主アームと交差させない・端部抜け止め溝",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      22.007586885051836,
+      4.005689763905288,
+      4.003793542525916
+    ],
+    "valid": true
+  },
+  "elbow_parallel_axle": {
+    "description": "肘受動リンクの共通軸・端部抜け止め溝",
+    "group": "hardware",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      164.00758688505184,
+      4.005689763905288,
+      4.003793542525932
+    ],
+    "valid": true
+  },
+  "elbow_stator": {
+    "description": "垂直を保つ肘キャリア・M5中央ケースを固定する受け",
+    "group": "arm",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      137.01974185509283,
+      40.01437240091176,
+      36.014653327939236
+    ],
+    "valid": true
+  },
+  "head_connector": {
+    "description": "2独立ユニットをM2ねじで受ける連結台・垂直保持",
+    "group": "arm",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      140.41501205407718,
+      38.00349522707197,
+      29.00971062097738
+    ],
+    "valid": true
+  },
+  "root_output_gear": {
+    "description": "段階0の固定穴を持つ中央出力歯車 root",
+    "group": "joint_gear",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      6.013276898840694,
+      19.99767830226773,
+      19.95454187139812
+    ],
+    "valid": true
+  },
+  "joint_home_lock_pin": {
+    "description": "電源OFFの関節固定用・着脱ピン",
+    "group": "lock",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      17.505121212409982,
+      4.005689763905289,
+      4.003793542525914
+    ],
+    "valid": true
+  },
+  "joint_input_pinion": {
+    "description": "18歯入力ピニオン・別部品として軸へ挿入",
+    "group": "joint_gear",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.0000002000000032,
+      9.890344216146614,
+      9.996540526155846
+    ],
+    "valid": true
+  },
+  "root_case_chassis": {
+    "description": "中央root歯車の一体軸受枠・側方から歯車を入れて軸を挿入",
+    "group": "joint_case",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      14.000000200000006,
+      39.50208653838931,
+      27.00968385746514
+    ],
+    "valid": true
+  },
+  "root_mount_M2_bolt": {
+    "description": "中央ケース取付M2・ナットは足下面から挿入",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.6034142082733216,
+      14.00483671172054,
+      3.6051208075147594
+    ],
+    "valid": true
+  },
+  "root_mount_M2_nut": {
+    "description": "中央ケース足の下面開放ナットポケットへ",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      4.600000200000003,
+      1.6037935425259118,
+      3.9837170574084224
+    ],
+    "valid": true
+  },
+  "root_input_shaft": {
+    "description": "M4入力軸・外側巻取り輪から中央歯車へ・端部抜け止め溝",
+    "group": "joint_gear",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      112.0000002,
+      3.4641018151377843,
+      4.0000002000000405
+    ],
+    "valid": true
+  },
+  "joint_input_drum": {
+    "description": "小径2溝巻取り輪・入力軸の六角座へ",
+    "group": "joint_gear",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      6.0333816142280305,
+      17.625034281183268,
+      17.61669090711402
+    ],
+    "valid": true
+  },
+  "elbow_output_gear": {
+    "description": "段階0の固定穴を持つ中央出力歯車 elbow",
+    "group": "joint_gear",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      6.007707288442688,
+      19.99767830226772,
+      19.954541871398114
+    ],
+    "valid": true
+  },
+  "elbow_case_chassis": {
+    "description": "中央elbow歯車の一体軸受枠・側方から歯車を入れて軸を挿入",
+    "group": "joint_case",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      14.000000200000002,
+      34.002086538389285,
+      27.00968385746514
+    ],
+    "valid": true
+  },
+  "elbow_mount_M2_bolt": {
+    "description": "中央ケース取付M2・ナットは足下面から挿入",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.6034142082733216,
+      12.004836711720536,
+      3.6051208075147594
+    ],
+    "valid": true
+  },
+  "elbow_mount_M2_nut": {
+    "description": "中央ケース足の下面開放ナットポケットへ",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      4.600000200000006,
+      1.6037935425259136,
+      3.983717057408426
+    ],
+    "valid": true
+  },
+  "elbow_input_shaft": {
+    "description": "M5入力軸・右側巻取り輪から中央歯車へ・端部抜け止め溝",
+    "group": "joint_gear",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      54.0000002,
+      3.464101815137763,
+      4.000000200000013
+    ],
+    "valid": true
+  },
+  "upper_PTFE_adapter": {
+    "description": "上部／肘側のPTFE1.6取付アダプタ・アウター端面を肩で受ける",
+    "group": "hardware",
+    "solids": 1,
+    "count": 10,
+    "bbox_mm": [
+      4.6043625439047995,
+      4.606543198491081,
+      4.806733382983494
+    ],
+    "valid": true
+  },
+  "holder_old_inner": {
+    "description": "旧側ホルダー：中央側だけ保持・外側から供給",
+    "group": "holder",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      14.076125885538024,
+      29.000000200000265,
+      13.260310592537584
+    ],
+    "valid": true
+  },
+  "module_case_L": {
+    "description": "開いて回転部・カム・棒を挟むケース半割・水平戻し案内輪の逃げ",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      16.069182380297246,
+      49.547118369056456,
+      28.502086538389264
+    ],
+    "valid": true
+  },
+  "module_case_R": {
+    "description": "開いて回転部・カム・棒を挟むケース半割・水平戻し案内輪の逃げ",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      15.55631127830953,
+      49.529342122171,
+      30.781473906555078
+    ],
+    "valid": true
+  },
+  "twist_upper_drum": {
+    "description": "上中空ドラム・戻し溝はケースを閉じた後に別体で装着",
+    "group": "head",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      28.026553597681392,
+      28.039827147337018,
+      4.828070934691754
+    ],
+    "valid": true
+  },
+  "twist_guide_cage": {
+    "description": "下側ガイド籠：上ドラムとはM1.2ねじ2本で締結して組み立てる",
+    "group": "head",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      25.600000200000007,
+      44.40000020000002,
+      13.006598238125806
+    ],
+    "valid": true
+  },
+  "rotor_M12_screw": {
+    "description": "上ドラムの皿座ねじ・ねじ山省略",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      2.0018968712629563,
+      2.002844981952644,
+      8.402940040457585
+    ],
+    "valid": true
+  },
+  "grip_drum_pinion": {
+    "description": "専用把持ドラム・六角座で別体24歯ピニオンを駆動",
+    "group": "head",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      21.82067391676623,
+      21.83100832328382,
+      8.114545649817483
+    ],
+    "valid": true
+  },
+  "cable_stop_button": {
+    "description": "PE糸の止め結びを受ける印刷エンドビーズ・穴Ø0.8をさらう",
+    "group": "hardware",
+    "solids": 1,
+    "count": 6,
+    "bbox_mm": [
+      2.101991704826104,
+      2.1029872210502765,
+      0.6039832096522079
+    ],
+    "valid": true
+  },
+  "parallel_jaw_rack": {
+    "description": "爪ラックと5mmパッドを一体化・Cガイド端から挿入",
+    "group": "grip_link",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      17.606348843666737,
+      27.00000020000001,
+      26.300000200000007
+    ],
+    "valid": true
+  },
+  "twist_return_spool_L": {
+    "description": "後組みする半割ねじり戻し溝・上ドラムへ各1本で留める",
+    "group": "head",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      11.762719673890713,
+      9.325439147781415,
+      3.614237010901075
+    ],
+    "valid": true
+  },
+  "twist_return_spool_R": {
+    "description": "後組みする半割ねじり戻し溝・上ドラムへ各1本で留める",
+    "group": "head",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      11.762341348801026,
+      9.324682497602044,
+      3.6100012098719425
+    ],
+    "valid": true
+  },
+  "return_spool_M14_screw": {
+    "description": "ねじり戻し溝を後組みする小頭M1.4×5",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      2.0018968712629563,
+      2.002844981952644,
+      6.002845206894435
+    ],
+    "valid": true
+  },
+  "grip_pinion_insert": {
+    "description": "m0.5/24歯/幅3・試作用印刷ピニオン・市販品は穴と厚みの追加加工が必要",
+    "group": "head",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      12.922550233520937,
+      12.922550233520937,
+      3.00332304244174
+    ],
+    "valid": true
+  },
+  "pinion_M14_screw": {
+    "description": "別体ピニオン抜け止めM1.4×6・印刷下穴をさらってねじ込む",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      1.9018020376998082,
+      1.9027027428550114,
+      6.302750373331288
+    ],
+    "valid": true
+  },
+  "pusher_follower_pin": {
+    "description": "Ø1×6.3フォロワ横ピン・金属丸棒推奨／印刷試験片も同梱",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      6.301896871262962,
+      1.0014225909763281,
+      1.000948535631487
+    ],
+    "valid": true
+  },
+  "fairlead_cover_G": {
+    "description": "可開式G糸案内の蓋・PTFEライナーを後から置ける",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      1.035519283959042,
+      9.795934335031546,
+      9.793519585817135
+    ],
+    "valid": true
+  },
+  "fairlead_screw_G": {
+    "description": "案内蓋M1.4×4・ケース下穴をさらって締結",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      5.003414208273327,
+      2.6036984165384496,
+      2.602465872641851
+    ],
+    "valid": true
+  },
+  "fairlead_cover_T": {
+    "description": "可開式T糸案内の蓋・PTFEライナーを後から置ける",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      1.035519283959049,
+      9.79593433503155,
+      9.793519585817139
+    ],
+    "valid": true
+  },
+  "fairlead_screw_T": {
+    "description": "案内蓋M1.4×4・ケース下穴をさらって締結",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      5.00341420827333,
+      2.6036984165384496,
+      2.6024658726418544
+    ],
+    "valid": true
+  },
+  "fairlead_cover_P": {
+    "description": "可開式P糸案内の蓋・PTFEライナーを後から置ける",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      1.035519283959049,
+      9.79593433503155,
+      9.793519585817133
+    ],
+    "valid": true
+  },
+  "fairlead_screw_P": {
+    "description": "案内蓋M1.4×4・ケース下穴をさらって締結",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      5.003414208273328,
+      2.6036984165384425,
+      2.6024658726418473
+    ],
+    "valid": true
+  },
+  "spring_cassette": {
+    "description": "一枚の共通側板・水平JB-14×3・案内輪の軸座一体",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      37.00000020000003,
+      59.003881126971294,
+      30.000000200000013
+    ],
+    "valid": true
+  },
+  "cassette_M2_screw": {
+    "description": "共通ばね板を留めるM2×8",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      3.6034142082733216,
+      10.004836711720536,
+      3.6051208075147594
+    ],
+    "valid": true
+  },
+  "case_M2_bolt": {
+    "description": "ケース横締めM2×16・工具は側方から",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      18.004836711720543,
+      3.6051208075147585,
+      3.6034142082733274
+    ],
+    "valid": true
+  },
+  "case_M2_nut": {
+    "description": "ケース横締めM2ナット・側面六角ポケットへ",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      1.6037935425259153,
+      3.983717057408434,
+      4.6000002000000135
+    ],
+    "valid": true
+  },
+  "spring_hook_screw": {
+    "description": "水平ばねの固定フック・M1.4×8・頭径2.4以上",
+    "group": "hardware",
+    "solids": 1,
+    "count": 6,
+    "bbox_mm": [
+      8.00331937471018,
+      2.403413938343185,
+      2.402276205515556
+    ],
+    "valid": true
+  },
+  "return_idler": {
+    "description": "戻し糸の自由回転案内輪・印刷ジャーナル・転がり軸受は未使用",
+    "group": "idler",
+    "solids": 1,
+    "count": 6,
+    "bbox_mm": [
+      9.208724887809598,
+      9.213086196982161,
+      1.2174495756191965
+    ],
+    "valid": true
+  },
+  "idler_common_axle": {
+    "description": "案内輪3個を通す共通M1.6×16軸・下から最後に挿す",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.2030348740207373,
+      3.2045518511242364,
+      17.30426771034166
+    ],
+    "valid": true
+  },
+  "idler_axle_nut": {
+    "description": "共通案内軸のM1.6ナット・上から留める",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.7000002000000087,
+      3.2042941940024363,
+      1.303224541147035
+    ],
+    "valid": true
+  },
+  "push_cam_left": {
+    "description": "中央カム左半割・フォロワを挟んで組み立てる・固定キー溝",
+    "group": "pusher_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.400044999099576,
+      6.641037387244776,
+      24.016396449599636
+    ],
+    "valid": true
+  },
+  "push_cam_right": {
+    "description": "中央カム右半割・120度で20mm下降・固定キー溝",
+    "group": "pusher_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      3.4000449990995754,
+      6.641037387244776,
+      24.016396449599636
+    ],
+    "valid": true
+  },
+  "push_rotating_plunger": {
+    "description": "押し足一体棒・上ドラム別体・Ø1横ピンを後挿しする",
+    "group": "pusher",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      12.011380227577739,
+      12.017068891715864,
+      58.015229844245376
+    ],
+    "valid": true
+  },
+  "push_sliding_drive": {
+    "description": "着脱式押込みドラム・主糸と戻し糸を別溝へ",
+    "group": "pusher",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      16.215363237229948,
+      16.22304293381642,
+      4.823234422971211
+    ],
+    "valid": true
+  },
+  "rear_cable_retainer": {
+    "description": "後側3本をそろえフェルールを押さえる着脱コーム",
+    "group": "head_fixed",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      29.2609468746601,
+      13.808757539728079,
+      1.5109468746600925
+    ],
+    "valid": true
+  },
+  "retainer_M12_screw": {
+    "description": "後側3線コームのM1.2ねじ・ねじ山省略",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      2.0018968712629563,
+      2.002844981952644,
+      6.902845206894433
+    ],
+    "valid": true
+  },
+  "jaw_lock_pin": {
+    "description": "開放姿勢の着脱固定ピン",
+    "group": "lock",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      26.505690213788867,
+      4.406258720295817,
+      4.404172876778505
+    ],
+    "valid": true
+  },
+  "twist_lock_pin": {
+    "description": "上ドラムの回転を固定する着脱ピン",
+    "group": "lock",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      2.6024658726418473,
+      2.6036984165384403,
+      8.20312970758388
+    ],
+    "valid": true
+  },
+  "module_M2_bolt": {
+    "description": "ユニット支持台のM2ボルト・ねじ山省略",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      3.6034142082733216,
+      3.6051208075147594,
+      10.005216045973132
+    ],
+    "valid": true
+  },
+  "module_M2_nut": {
+    "description": "ユニット支持台のM2ナット・ねじ山省略",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      4.6000002,
+      3.9837170574084197,
+      1.603983209652208
+    ],
+    "valid": true
+  },
+  "tube_reducer_25": {
+    "description": "試作PTFE外径1.6／内径0.8用・端面肩付き交換フェルール",
+    "group": "hardware",
+    "solids": 1,
+    "count": 6,
+    "bbox_mm": [
+      4.804552211031096,
+      4.806827676686346,
+      4.807966219304416
+    ],
+    "valid": true
+  },
+  "holder_new_inner": {
+    "description": "新側ホルダー：中央側だけ保持・外側から供給",
+    "group": "holder",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      14.076125885538024,
+      29.000000200000265,
+      13.260310592537584
+    ],
+    "valid": true
+  },
+  "column_reaction_bracket": {
+    "description": "柱に固定する反力ブラケット・縦部56.8mm・上板吊り棒を置換",
+    "group": "frame",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      32.092493507886,
+      48.000000200000066,
+      68.80000020000006
+    ],
+    "valid": true
+  },
+  "reaction_M2_screw": {
+    "description": "柱側反力ブラケットのM2ねじ・ねじ山省略",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      11.505026378846836,
+      3.60512080751476,
+      3.603414208273322
+    ],
+    "valid": true
+  },
+  "servo_stepup_mount": {
+    "description": "小型36/18歯の増速支持台・90度サーボで大きな巻取り角を確保",
+    "group": "drive",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      49.000000200000024,
+      38.000000200000024,
+      39.252276205515564
+    ],
+    "valid": true
+  },
+  "upper_driver36": {
+    "description": "上部増速用36歯・ホーン取付穴",
+    "group": "drive",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      4.017199102522147,
+      18.997592533157697,
+      18.997592533157697
+    ],
+    "valid": true
+  },
+  "upper_pinion18": {
+    "description": "上部増速用18歯・入力の反対向きに2倍回転",
+    "group": "drive",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      3.0000002000000077,
+      9.890344216146618,
+      9.996540526155849
+    ],
+    "valid": true
+  },
+  "upper_keyed_shaft": {
+    "description": "増速巻取り輪の六角駆動座・両側ジャーナル・端部抜け止め溝",
+    "group": "drive",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      20.000000200000006,
+      3.4641018151377647,
+      4.00000020000001
+    ],
+    "valid": true
+  },
+  "upper_grip_drum": {
+    "description": "把持入力の巻取り輪・上部増速軸へ",
+    "group": "drive",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      6.0485549843316795,
+      25.636413408993846,
+      25.624277592165846
+    ],
+    "valid": true
+  },
+  "servo_direct_mount": {
+    "description": "MG90D直接巻取り台・フランジと本体逃げ",
+    "group": "drive",
+    "solids": 1,
+    "count": 3,
+    "bbox_mm": [
+      36.00000020000001,
+      26.000000200000013,
+      39.25227620551556
+    ],
+    "valid": true
+  },
+  "upper_twist_dual_drum": {
+    "description": "共通ねじりの2溝輪を一体化・空回りする接続軸を廃止",
+    "group": "drive",
+    "solids": 1,
+    "count": 1,
+    "bbox_mm": [
+      11.052348326857594,
+      27.63925819094649,
+      27.6261742634288
+    ],
+    "valid": true
+  },
+  "upper_joint_drum": {
+    "description": "引抜き2軸用の2溝輪・下側と同径",
+    "group": "drive",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      6.034140282733212,
+      18.025603237573797,
+      18.01707024136661
+    ],
+    "valid": true
+  },
+  "upper_direct_drum": {
+    "description": "ねじり／押込みの直接巻取り輪",
+    "group": "drive",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      5.0523483268575955,
+      27.63925819094649,
+      27.6261742634288
+    ],
+    "valid": true
+  },
+  "shaft_clip_3": {
+    "description": "横から着脱するCクリップ・軸端溝に入れる・予備も印刷",
+    "group": "hardware",
+    "solids": 1,
+    "count": 2,
+    "bbox_mm": [
+      0.7681811658919091,
+      9.17475952510915,
+      9.613973576170471
+    ],
+    "valid": true
+  },
+  "shaft_clip_2": {
+    "description": "横から着脱するCクリップ・軸端溝に入れる・予備も印刷",
+    "group": "hardware",
+    "solids": 1,
+    "count": 18,
+    "bbox_mm": [
+      0.7648042153995888,
+      7.399393299002778,
+      7.614413841791926
+    ],
+    "valid": true
+  },
+  "shaft_clip_5": {
+    "description": "横から着脱するCクリップ・軸端溝に入れる・予備も印刷",
+    "group": "hardware",
+    "solids": 1,
+    "count": 4,
+    "bbox_mm": [
+      0.7758457318825508,
+      12.616422128062814,
+      13.618718195558039
+    ],
+    "valid": true
+  }
+}

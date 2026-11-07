@@ -1,0 +1,377 @@
+{
+  "source_sha256": "25e2cf4ef7f9745b39f77b33d9b05f0f02298dd43bbcf4be82abae24effa91f5",
+  "scope": "All active non-reference rigid pairs, including gears and locks; glass separate; threshold .025 mm^3. Foam, wire and springs excluded. No elastic/dynamic/force qualification.",
+  "samples": 7,
+  "contacts": [],
+  "mesh_pose_errors": [],
+  "parts": {
+    "grip_drum_pinion": {
+      "valid": true,
+      "solids": 1
+    },
+    "twist_guide_cage": {
+      "valid": true,
+      "solids": 1
+    },
+    "twist_upper_drum": {
+      "valid": true,
+      "solids": 1
+    },
+    "rotor_M12_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "parallel_jaw_rack": {
+      "valid": true,
+      "solids": 1
+    },
+    "push_cam_left": {
+      "valid": true,
+      "solids": 1
+    },
+    "push_cam_right": {
+      "valid": true,
+      "solids": 1
+    },
+    "push_rotating_plunger": {
+      "valid": true,
+      "solids": 1
+    },
+    "push_sliding_drive": {
+      "valid": true,
+      "solids": 1
+    },
+    "tube_reducer_25": {
+      "valid": true,
+      "solids": 1
+    },
+    "rear_cable_retainer": {
+      "valid": true,
+      "solids": 1
+    },
+    "retainer_M12_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "cable_stop_button": {
+      "valid": true,
+      "solids": 1
+    },
+    "module_M2_bolt": {
+      "valid": true,
+      "solids": 1
+    },
+    "module_M2_nut": {
+      "valid": true,
+      "solids": 1
+    },
+    "jaw_lock_pin": {
+      "valid": true,
+      "solids": 1
+    },
+    "twist_lock_pin": {
+      "valid": true,
+      "solids": 1
+    },
+    "arm_stage1": {
+      "valid": true,
+      "solids": 1
+    },
+    "arm_stage2": {
+      "valid": true,
+      "solids": 1
+    },
+    "parallel_stage1": {
+      "valid": true,
+      "solids": 1
+    },
+    "parallel_stage2": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_stator": {
+      "valid": true,
+      "solids": 1
+    },
+    "head_connector": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_output_shaft": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_output_shaft": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_parallel_stub": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_parallel_axle": {
+      "valid": true,
+      "solids": 1
+    },
+    "head_main_stub": {
+      "valid": true,
+      "solids": 1
+    },
+    "head_parallel_stub": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_output_gear": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_output_gear": {
+      "valid": true,
+      "solids": 1
+    },
+    "joint_home_lock_pin": {
+      "valid": true,
+      "solids": 1
+    },
+    "joint_input_pinion": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_input_shaft": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_input_shaft": {
+      "valid": true,
+      "solids": 1
+    },
+    "joint_input_drum": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_case_chassis": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_case_chassis": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_mount_M2_bolt": {
+      "valid": true,
+      "solids": 1
+    },
+    "root_mount_M2_nut": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_mount_M2_bolt": {
+      "valid": true,
+      "solids": 1
+    },
+    "elbow_mount_M2_nut": {
+      "valid": true,
+      "solids": 1
+    },
+    "holder_old_inner": {
+      "valid": true,
+      "solids": 1
+    },
+    "holder_new_inner": {
+      "valid": true,
+      "solids": 1
+    },
+    "fixed_frame": {
+      "valid": true,
+      "solids": 1
+    },
+    "ref_vial": {
+      "valid": true,
+      "solids": 1
+    },
+    "ref_sponge": {
+      "valid": true,
+      "solids": 1
+    },
+    "ref_servo": {
+      "valid": true,
+      "solids": 1
+    },
+    "servo_direct_mount": {
+      "valid": true,
+      "solids": 1
+    },
+    "servo_stepup_mount": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_driver36": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_pinion18": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_keyed_shaft": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_grip_drum": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_joint_drum": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_direct_drum": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_twist_dual_drum": {
+      "valid": true,
+      "solids": 1
+    },
+    "column_reaction_bracket": {
+      "valid": true,
+      "solids": 1
+    },
+    "reaction_M2_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "grip_pinion_insert": {
+      "valid": true,
+      "solids": 1
+    },
+    "pinion_M14_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "pusher_follower_pin": {
+      "valid": true,
+      "solids": 1
+    },
+    "return_spool_M14_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "twist_return_spool_L": {
+      "valid": true,
+      "solids": 1
+    },
+    "twist_return_spool_R": {
+      "valid": true,
+      "solids": 1
+    },
+    "fairlead_cover_G": {
+      "valid": true,
+      "solids": 1
+    },
+    "fairlead_screw_G": {
+      "valid": true,
+      "solids": 1
+    },
+    "fairlead_cover_T": {
+      "valid": true,
+      "solids": 1
+    },
+    "fairlead_screw_T": {
+      "valid": true,
+      "solids": 1
+    },
+    "fairlead_cover_P": {
+      "valid": true,
+      "solids": 1
+    },
+    "fairlead_screw_P": {
+      "valid": true,
+      "solids": 1
+    },
+    "module_case_L": {
+      "valid": true,
+      "solids": 1
+    },
+    "module_case_R": {
+      "valid": true,
+      "solids": 1
+    },
+    "case_M2_bolt": {
+      "valid": true,
+      "solids": 1
+    },
+    "case_M2_nut": {
+      "valid": true,
+      "solids": 1
+    },
+    "spring_cassette": {
+      "valid": true,
+      "solids": 1
+    },
+    "return_idler": {
+      "valid": true,
+      "solids": 1
+    },
+    "idler_common_axle": {
+      "valid": true,
+      "solids": 1
+    },
+    "idler_axle_nut": {
+      "valid": true,
+      "solids": 1
+    },
+    "cassette_M2_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "spring_hook_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_PTFE_adapter": {
+      "valid": true,
+      "solids": 1
+    },
+    "holder_M2_bolt": {
+      "valid": true,
+      "solids": 1
+    },
+    "holder_M2_nut": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_deck_L": {
+      "valid": true,
+      "solids": 1
+    },
+    "upper_deck_R": {
+      "valid": true,
+      "solids": 1
+    },
+    "deck_splice": {
+      "valid": true,
+      "solids": 1
+    },
+    "M3_deck_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "M3_splice_screw": {
+      "valid": true,
+      "solids": 1
+    },
+    "shaft_clip_2": {
+      "valid": true,
+      "solids": 1
+    },
+    "shaft_clip_3": {
+      "valid": true,
+      "solids": 1
+    },
+    "shaft_clip_5": {
+      "valid": true,
+      "solids": 1
+    }
+  }
+}

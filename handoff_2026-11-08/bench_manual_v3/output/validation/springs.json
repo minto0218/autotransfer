@@ -1,0 +1,175 @@
+{
+  "scope": "Full-stroke OD2.5 spring envelopes against bench rigid parts at 8 poses.\nFixed hook screws are intended spring contacts. Exact hook clocking and knots need hands-on checks.\n",
+  "rows": [
+    {
+      "state": 0,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 1,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 1,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 1,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 3,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 3,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 3,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 4,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 4,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 4,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 5,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 5,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 5,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 6,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 6,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 6,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 7,
+      "spring": "G",
+      "min_gap_mm": 1.2624689052802225,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 7,
+      "spring": "T",
+      "min_gap_mm": 0.25022617791745816,
+      "nearest": "head_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 7,
+      "spring": "P",
+      "min_gap_mm": 2.25,
+      "nearest": "head_spring_cassette",
+      "contacts": []
+    }
+  ],
+  "contacts": [],
+  "minimum_gap_mm": 0.25022617791745816
+}

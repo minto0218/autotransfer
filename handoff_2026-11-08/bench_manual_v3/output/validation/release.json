@@ -1,0 +1,75 @@
+{
+  "version": "B3",
+  "generated_utc": "2026-11-04T06:56:32.950987+00:00",
+  "checks_pass": true,
+  "geometry_sources_match": true,
+  "hardware_counts_match": true,
+  "plate_counts_match": true,
+  "print_types": 34,
+  "print_pieces": 47,
+  "screws": 25,
+  "nuts": 5,
+  "rigid_poses": 9,
+  "assembly_tests": 1499,
+  "pusher_path_samples": 41,
+  "positive_constraint_tests": 23,
+  "browser": {
+    "browser": "Chrome headless",
+    "states": 10,
+    "views": 7,
+    "individual_parts": 48,
+    "page_errors": [],
+    "webgl_error": 0,
+    "initial_load_ms": 352,
+    "html_bytes": 970931
+  },
+  "physical_print_tested": false,
+  "twist_range_deg": [
+    0,
+    30
+  ],
+  "twist_sweep_samples": 37,
+  "twist_spring": [
+    {
+      "angle": 0,
+      "length_mm": 16.0,
+      "extension_mm": 2.0,
+      "return_torque_lower_bound_Nmm": 0.4
+    },
+    {
+      "angle": 15,
+      "length_mm": 17.047197551196597,
+      "extension_mm": 3.0471975511965965,
+      "return_torque_lower_bound_Nmm": 0.6094395102393193
+    },
+    {
+      "angle": 30,
+      "length_mm": 18.094395102393197,
+      "extension_mm": 4.094395102393197,
+      "return_torque_lower_bound_Nmm": 0.8188790204786394
+    }
+  ],
+  "style_support_checks": {
+    "scope": "Check that rounded shaping retains the mounting, spring and idler supports.",
+    "support_control_points": {
+      "mount_left": true,
+      "mount_right": true,
+      "curved_rib_centre": true,
+      "upper_plate_neck": true,
+      "grip_hook_surround": true,
+      "twist_hook_surround": true,
+      "press_hook_surround": true,
+      "lower_idler_14.65": true,
+      "upper_idler_14.65": true,
+      "lower_idler_21.6": true,
+      "upper_idler_21.6": true,
+      "lower_idler_25.1": true,
+      "upper_idler_25.1": true
+    },
+    "solids": 1,
+    "plate_outer_x_mm": 24.5,
+    "bbox_tolerance_mm": 0.01,
+    "maximum_x_mm": 24.5000001,
+    "pass_": true
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "00_嵌合確認_ヘッドと同じノズル": [
+    {
+      "part": "fit_coupon",
+      "copy": 1,
+      "x": 5,
+      "y": 5
+    },
+    {
+      "part": "fit_coupon_pin",
+      "copy": 1,
+      "x": 45.0,
+      "y": 5
+    }
+  ],
+  "01_ヘッド一式_0.2mm推奨": [
+    {
+      "part": "spring_cassette",
+      "copy": 1,
+      "x": 5,
+      "y": 5
+    },
+    {
+      "part": "module_case_L",
+      "copy": 1,
+      "x": 39.531,
+      "y": 5
+    },
+    {
+      "part": "module_case_R",
+      "copy": 1,
+      "x": 72.031,
+      "y": 5
+    },
+    {
+      "part": "twist_guide_cage",
+      "copy": 1,
+      "x": 106.43100000000001,
+      "y": 5
+    },
+    {
+      "part": "twist_upper_drum",
+      "copy": 1,
+      "x": 136.031,
+      "y": 5
+    },
+    {
+      "part": "parallel_jaw_rack",
+      "copy": 1,
+      "x": 168.031,
+      "y": 5
+    },
+    {
+      "part": "parallel_jaw_rack",
+      "copy": 2,
+      "x": 189.631,
+      "y": 5
+    },
+    {
+      "part": "grip_drum_pinion",
+      "copy": 1,
+      "x": 211.231,
+      "y": 5
+    },
+    {
+      "part": "push_sliding_drive",
+      "copy": 1,
+      "x": 5,
+      "y": 67.787
+    },
+    {
+      "part": "rear_cable_retainer",
+      "copy": 1,
+      "x": 25.2,
+      "y": 67.787
+    },
+    {
+      "part": "grip_pinion_insert",
+      "copy": 1,
+      "x": 58.45,
+      "y": 67.787
+    },
+    {
+      "part": "push_rotating_plunger",
+      "copy": 1,
+      "x": 75.373,
+      "y": 67.787
+    },
+    {
+      "part": "fairlead_cover_G",
+      "copy": 1,
+      "x": 91.373,
+      "y": 67.787
+    },
+    {
+      "part": "fairlead_cover_P",
+      "copy": 1,
+      "x": 104.77300000000001,
+      "y": 67.787
+    },
+    {
+      "part": "fairlead_cover_T",
+      "copy": 1,
+      "x": 118.55100000000002,
+      "y": 67.787
+    },
+    {
+      "part": "twist_return_spool_L",
+      "copy": 1,
+      "x": 132.329,
+      "y": 67.787
+    },
+    {
+      "part": "twist_return_spool_R",
+      "copy": 1,
+      "x": 148.079,
+      "y": 67.787
+    },
+    {
+      "part": "return_idler",
+      "copy": 1,
+      "x": 163.829,
+      "y": 67.787
+    },
+    {
+      "part": "return_idler",
+      "copy": 2,
+      "x": 177.029,
+      "y": 67.787
+    },
+    {
+      "part": "return_idler",
+      "copy": 3,
+      "x": 190.22899999999998,
+      "y": 67.787
+    },
+    {
+      "part": "push_cam_left",
+      "copy": 1,
+      "x": 203.42899999999997,
+      "y": 67.787
+    },
+    {
+      "part": "push_cam_right",
+      "copy": 1,
+      "x": 5,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "opening_gauge_5",
+      "copy": 1,
+      "x": 33.4,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "tube_reducer_25",
+      "copy": 1,
+      "x": 60.4,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "tube_reducer_25",
+      "copy": 2,
+      "x": 69.2,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "tube_reducer_25",
+      "copy": 3,
+      "x": 78.0,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "jaw_lock_pin",
+      "copy": 1,
+      "x": 86.8,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "jaw_lock_pin",
+      "copy": 2,
+      "x": 95.2,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "manual_pull_tab",
+      "copy": 1,
+      "x": 103.60000000000001,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "manual_pull_tab",
+      "copy": 2,
+      "x": 115.60000000000001,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "manual_pull_tab",
+      "copy": 3,
+      "x": 127.60000000000001,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "press_home_lock_pin",
+      "copy": 1,
+      "x": 139.60000000000002,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "twist_lock_pin",
+      "copy": 1,
+      "x": 147.00000000000003,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "twist_motion_follower",
+      "copy": 1,
+      "x": 153.60000000000002,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "cable_stop_button",
+      "copy": 1,
+      "x": 160.20000000000002,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "cable_stop_button",
+      "copy": 2,
+      "x": 166.3,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "cable_stop_button",
+      "copy": 3,
+      "x": 172.4,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "jaw_guide_endcap",
+      "copy": 1,
+      "x": 178.5,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "jaw_guide_endcap",
+      "copy": 2,
+      "x": 204.5,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "pusher_follower_pin",
+      "copy": 1,
+      "x": 230.5,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "case_alignment_key",
+      "copy": 1,
+      "x": 240.3,
+      "y": 87.98700000000001
+    },
+    {
+      "part": "case_alignment_key",
+      "copy": 2,
+      "x": 5,
+      "y": 98.611
+    },
+    {
+      "part": "push_cam_alignment_key",
+      "copy": 1,
+      "x": 12.0,
+      "y": 98.611
+    },
+    {
+      "part": "push_cam_alignment_key",
+      "copy": 2,
+      "x": 17.4,
+      "y": 98.611
+    }
+  ],
+  "02_卓上支持台_0.4mm可": [
+    {
+      "part": "bench_head_stand",
+      "copy": 1,
+      "x": 5,
+      "y": 5
+    }
+  ]
+}

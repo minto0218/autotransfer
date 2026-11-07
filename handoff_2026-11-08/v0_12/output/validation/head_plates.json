@@ -1,0 +1,271 @@
+{
+  "plates": [
+    [
+      {
+        "part": "bench_head_stand",
+        "copy": 1,
+        "x": 5,
+        "y": 5
+      },
+      {
+        "part": "spring_cassette",
+        "copy": 1,
+        "x": 69.0,
+        "y": 5
+      },
+      {
+        "part": "module_case_L",
+        "copy": 1,
+        "x": 103.0,
+        "y": 5
+      },
+      {
+        "part": "module_case_R",
+        "copy": 1,
+        "x": 135.5,
+        "y": 5
+      },
+      {
+        "part": "twist_guide_cage",
+        "copy": 1,
+        "x": 170.28,
+        "y": 5
+      },
+      {
+        "part": "holder_old_inner",
+        "copy": 1,
+        "x": 199.88,
+        "y": 5
+      },
+      {
+        "part": "twist_upper_drum",
+        "copy": 1,
+        "x": 217.88,
+        "y": 5
+      },
+      {
+        "part": "parallel_jaw_rack",
+        "copy": 1,
+        "x": 5,
+        "y": 79.0
+      },
+      {
+        "part": "parallel_jaw_rack",
+        "copy": 2,
+        "x": 26.6,
+        "y": 79.0
+      },
+      {
+        "part": "bench_anchor_back",
+        "copy": 1,
+        "x": 48.2,
+        "y": 79.0
+      },
+      {
+        "part": "grip_drum_pinion",
+        "copy": 1,
+        "x": 112.2,
+        "y": 79.0
+      },
+      {
+        "part": "push_sliding_drive",
+        "copy": 1,
+        "x": 138.0,
+        "y": 79.0
+      },
+      {
+        "part": "rear_cable_retainer",
+        "copy": 1,
+        "x": 158.2,
+        "y": 79.0
+      },
+      {
+        "part": "grip_pinion_insert",
+        "copy": 1,
+        "x": 191.45,
+        "y": 79.0
+      },
+      {
+        "part": "push_rotating_plunger",
+        "copy": 1,
+        "x": 208.37,
+        "y": 79.0
+      },
+      {
+        "part": "fit_coupon",
+        "copy": 1,
+        "x": 5,
+        "y": 110.0
+      },
+      {
+        "part": "fairlead_cover_G",
+        "copy": 1,
+        "x": 45.0,
+        "y": 110.0
+      },
+      {
+        "part": "fairlead_cover_T",
+        "copy": 1,
+        "x": 58.78,
+        "y": 110.0
+      },
+      {
+        "part": "fairlead_cover_P",
+        "copy": 1,
+        "x": 72.56,
+        "y": 110.0
+      },
+      {
+        "part": "twist_return_spool_L",
+        "copy": 1,
+        "x": 86.34,
+        "y": 110.0
+      },
+      {
+        "part": "twist_return_spool_R",
+        "copy": 1,
+        "x": 102.09,
+        "y": 110.0
+      },
+      {
+        "part": "return_idler",
+        "copy": 1,
+        "x": 117.84,
+        "y": 110.0
+      },
+      {
+        "part": "return_idler",
+        "copy": 2,
+        "x": 131.04,
+        "y": 110.0
+      },
+      {
+        "part": "return_idler",
+        "copy": 3,
+        "x": 144.23999999999998,
+        "y": 110.0
+      },
+      {
+        "part": "bench_anchor_front",
+        "copy": 1,
+        "x": 157.43999999999997,
+        "y": 110.0
+      },
+      {
+        "part": "manual_pull_tab",
+        "copy": 1,
+        "x": 221.43999999999997,
+        "y": 110.0
+      },
+      {
+        "part": "manual_pull_tab",
+        "copy": 2,
+        "x": 5,
+        "y": 126.0
+      },
+      {
+        "part": "manual_pull_tab",
+        "copy": 3,
+        "x": 23.0,
+        "y": 126.0
+      },
+      {
+        "part": "push_cam_left",
+        "copy": 1,
+        "x": 41.0,
+        "y": 126.0
+      },
+      {
+        "part": "push_cam_right",
+        "copy": 1,
+        "x": 69.0,
+        "y": 126.0
+      },
+      {
+        "part": "fit_coupon_pin",
+        "copy": 1,
+        "x": 97.0,
+        "y": 126.0
+      },
+      {
+        "part": "tube_reducer_25",
+        "copy": 1,
+        "x": 107.0,
+        "y": 126.0
+      },
+      {
+        "part": "tube_reducer_25",
+        "copy": 2,
+        "x": 115.8,
+        "y": 126.0
+      },
+      {
+        "part": "tube_reducer_25",
+        "copy": 3,
+        "x": 124.6,
+        "y": 126.0
+      },
+      {
+        "part": "upper_PTFE_adapter",
+        "copy": 1,
+        "x": 133.4,
+        "y": 126.0
+      },
+      {
+        "part": "upper_PTFE_adapter",
+        "copy": 2,
+        "x": 142.0,
+        "y": 126.0
+      },
+      {
+        "part": "upper_PTFE_adapter",
+        "copy": 3,
+        "x": 150.6,
+        "y": 126.0
+      },
+      {
+        "part": "jaw_lock_pin",
+        "copy": 1,
+        "x": 159.2,
+        "y": 126.0
+      },
+      {
+        "part": "jaw_lock_pin",
+        "copy": 2,
+        "x": 189.7,
+        "y": 126.0
+      },
+      {
+        "part": "twist_lock_pin",
+        "copy": 1,
+        "x": 220.2,
+        "y": 126.0
+      },
+      {
+        "part": "cable_stop_button",
+        "copy": 1,
+        "x": 226.79999999999998,
+        "y": 126.0
+      },
+      {
+        "part": "cable_stop_button",
+        "copy": 2,
+        "x": 232.89999999999998,
+        "y": 126.0
+      },
+      {
+        "part": "cable_stop_button",
+        "copy": 3,
+        "x": 238.99999999999997,
+        "y": 126.0
+      },
+      {
+        "part": "pusher_follower_pin",
+        "copy": 1,
+        "x": 5,
+        "y": 138.0
+      }
+    ]
+  ],
+  "scope": "Plain 3MF model layout only; select A1 nozzle/layer/support settings in slicer. No G-code."
+}

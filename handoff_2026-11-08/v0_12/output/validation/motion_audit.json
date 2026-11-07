@@ -1,0 +1,6 @@
+{
+  "source_sha256": "e119b983d7717b347249caab9a9bb07aad0469130e352c9c76b1cc25d9593745",
+  "scope": "14 discrete intermediate/range samples; active rigid pairs and glass; threshold .025mm3. Soft foam, wire, return springs excluded. Not a continuous sweep proof.",
+  "samples": 14,
+  "contacts": []
+}

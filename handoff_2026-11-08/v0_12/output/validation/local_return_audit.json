@@ -1,0 +1,96 @@
+{
+  "scope": "Bare return strands against rigid parts after leaving each winding drum.\nWound arcs, knots and intended spring contacts are excluded from this local check.\n",
+  "results": [
+    {
+      "state": 0,
+      "return_tag": "grip",
+      "surface_gap_mm": 0.04851778308390009,
+      "nearest": "old_return_idler_0"
+    },
+    {
+      "state": 0,
+      "return_tag": "twist",
+      "surface_gap_mm": 0.04816802419639066,
+      "nearest": "old_return_idler_1"
+    },
+    {
+      "state": 0,
+      "return_tag": "press",
+      "surface_gap_mm": 0.04818688860700876,
+      "nearest": "old_return_idler_2"
+    },
+    {
+      "state": 2,
+      "return_tag": "grip",
+      "surface_gap_mm": 0.04851778308390009,
+      "nearest": "old_return_idler_0"
+    },
+    {
+      "state": 2,
+      "return_tag": "twist",
+      "surface_gap_mm": 0.04816802419639066,
+      "nearest": "old_return_idler_1"
+    },
+    {
+      "state": 2,
+      "return_tag": "press",
+      "surface_gap_mm": 0.04818688860700876,
+      "nearest": "old_return_idler_2"
+    },
+    {
+      "state": 11,
+      "return_tag": "grip",
+      "surface_gap_mm": 0.04851778308390009,
+      "nearest": "old_return_idler_0"
+    },
+    {
+      "state": 11,
+      "return_tag": "twist",
+      "surface_gap_mm": 0.04816802419639066,
+      "nearest": "old_return_idler_1"
+    },
+    {
+      "state": 11,
+      "return_tag": "press",
+      "surface_gap_mm": 0.04818688860700876,
+      "nearest": "old_return_idler_2"
+    },
+    {
+      "state": 14,
+      "return_tag": "grip",
+      "surface_gap_mm": 0.04851778308390009,
+      "nearest": "old_return_idler_0"
+    },
+    {
+      "state": 14,
+      "return_tag": "twist",
+      "surface_gap_mm": 0.04816802419639066,
+      "nearest": "old_return_idler_1"
+    },
+    {
+      "state": 14,
+      "return_tag": "press",
+      "surface_gap_mm": 0.04818688860700876,
+      "nearest": "old_return_idler_2"
+    },
+    {
+      "state": 16,
+      "return_tag": "grip",
+      "surface_gap_mm": 0.04851778308390009,
+      "nearest": "old_return_idler_0"
+    },
+    {
+      "state": 16,
+      "return_tag": "twist",
+      "surface_gap_mm": 0.04816802419639066,
+      "nearest": "old_return_idler_1"
+    },
+    {
+      "state": 16,
+      "return_tag": "press",
+      "surface_gap_mm": 0.04818688860700876,
+      "nearest": "old_return_idler_2"
+    }
+  ],
+  "penetrations": []
+}

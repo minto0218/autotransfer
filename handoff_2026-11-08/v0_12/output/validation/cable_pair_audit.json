@@ -1,0 +1,1358 @@
+{
+  "scope": "Exact straight-segment pair distances for5 static candidate sets, housing OD1.6 plus two normal M4 wires0.3; no continuous deformation proof.",
+  "pairs": 225,
+  "minimum_surface_clearance_mm": 2.7835602669935504,
+  "intersections": [],
+  "results": [
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M3_0",
+      "surface_clearance_mm": 12.902647116646913
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 13.818330856081127
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 15.860406944027677
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 3.2857036009628295
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 4.240052836497479
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 25.76618166244346
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 20.000099904202337
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 83.24354191385464
+    },
+    {
+      "pose": "0",
+      "a": "M1_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 85.54248483403885
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 4.84104262389219
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 59.960981148776376
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 4.4
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 56.17793696559267
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 20.34806185470957
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 35.380724143399746
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 16.449581800574126
+    },
+    {
+      "pose": "0",
+      "a": "M3_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 27.754733231961108
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 68.0146715858087
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 44.79709042601702
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 50.4
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 78.78852355689422
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 71.78561338339553
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 8.038741265845543
+    },
+    {
+      "pose": "0",
+      "a": "M6_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 16.155332404216427
+    },
+    {
+      "pose": "0",
+      "a": "M2_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 7.274903373177987
+    },
+    {
+      "pose": "0",
+      "a": "M2_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 3.3680130662446777
+    },
+    {
+      "pose": "0",
+      "a": "M2_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 8.802742217983612
+    },
+    {
+      "pose": "0",
+      "a": "M2_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.39327363149133
+    },
+    {
+      "pose": "0",
+      "a": "M2_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 149.52899820240694
+    },
+    {
+      "pose": "0",
+      "a": "M2_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 143.3845589247426
+    },
+    {
+      "pose": "0",
+      "a": "M3_1",
+      "b": "M7_0",
+      "surface_clearance_mm": 4.30734389548029
+    },
+    {
+      "pose": "0",
+      "a": "M3_1",
+      "b": "M5_0",
+      "surface_clearance_mm": 7.0308056331383515
+    },
+    {
+      "pose": "0",
+      "a": "M3_1",
+      "b": "M5_1",
+      "surface_clearance_mm": 8.618696471066139
+    },
+    {
+      "pose": "0",
+      "a": "M3_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 127.59324719719818
+    },
+    {
+      "pose": "0",
+      "a": "M3_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 120.72539767759135
+    },
+    {
+      "pose": "0",
+      "a": "M7_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 8.144047301826049
+    },
+    {
+      "pose": "0",
+      "a": "M7_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 9.639567720258079
+    },
+    {
+      "pose": "0",
+      "a": "M7_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 133.9919741963189
+    },
+    {
+      "pose": "0",
+      "a": "M7_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 126.99402057149837
+    },
+    {
+      "pose": "0",
+      "a": "M5_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.2756605654865307
+    },
+    {
+      "pose": "0",
+      "a": "M5_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 136.04107196878374
+    },
+    {
+      "pose": "0",
+      "a": "M5_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 135.00292930921017
+    },
+    {
+      "pose": "0",
+      "a": "M5_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 139.0533596098351
+    },
+    {
+      "pose": "0",
+      "a": "M5_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 136.05040089320158
+    },
+    {
+      "pose": "0",
+      "a": "M4_normal_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 16.221501142450702
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M3_0",
+      "surface_clearance_mm": 4.50882436637978
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 3.383601449777749
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 50.39996063993707
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 27.14997823842674
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 32.91082504590355
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 66.90898225287033
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 57.364445097857434
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 23.717056324843558
+    },
+    {
+      "pose": "3",
+      "a": "M1_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 13.727279464122502
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 4.840909032615317
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 26.261393966045382
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 4.4
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 9.452505091983614
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 12.093670027701627
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 15.135320176087603
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 65.8400791810745
+    },
+    {
+      "pose": "3",
+      "a": "M3_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 56.09104503002197
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 68.01467158580868
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 44.79709042601702
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 50.3997304999656
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 81.60445834590256
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 73.75457754237598
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 20.415106768551787
+    },
+    {
+      "pose": "3",
+      "a": "M6_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 26.006208756114106
+    },
+    {
+      "pose": "3",
+      "a": "M2_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 3.386100007598017
+    },
+    {
+      "pose": "3",
+      "a": "M2_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 13.464175009126262
+    },
+    {
+      "pose": "3",
+      "a": "M2_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 15.026534110998885
+    },
+    {
+      "pose": "3",
+      "a": "M2_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 6.069643540158668
+    },
+    {
+      "pose": "3",
+      "a": "M2_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 147.2749941811434
+    },
+    {
+      "pose": "3",
+      "a": "M2_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 141.95411085759568
+    },
+    {
+      "pose": "3",
+      "a": "M3_1",
+      "b": "M7_0",
+      "surface_clearance_mm": 3.3700636529936547
+    },
+    {
+      "pose": "3",
+      "a": "M3_1",
+      "b": "M5_0",
+      "surface_clearance_mm": 10.096718102771673
+    },
+    {
+      "pose": "3",
+      "a": "M3_1",
+      "b": "M5_1",
+      "surface_clearance_mm": 20.139099870182324
+    },
+    {
+      "pose": "3",
+      "a": "M3_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 124.94712625790947
+    },
+    {
+      "pose": "3",
+      "a": "M3_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 119.0250907480382
+    },
+    {
+      "pose": "3",
+      "a": "M7_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 9.95843768420741
+    },
+    {
+      "pose": "3",
+      "a": "M7_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 24.645338329681824
+    },
+    {
+      "pose": "3",
+      "a": "M7_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 131.2924152834483
+    },
+    {
+      "pose": "3",
+      "a": "M7_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 125.1875604326924
+    },
+    {
+      "pose": "3",
+      "a": "M5_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 10.484895718402978
+    },
+    {
+      "pose": "3",
+      "a": "M5_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 136.65681186303763
+    },
+    {
+      "pose": "3",
+      "a": "M5_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 137.19485224992826
+    },
+    {
+      "pose": "3",
+      "a": "M5_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 138.09383891084263
+    },
+    {
+      "pose": "3",
+      "a": "M5_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 136.6568118630376
+    },
+    {
+      "pose": "3",
+      "a": "M4_normal_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 16.221501142450702
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M3_0",
+      "surface_clearance_mm": 10.540386094002953
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 16.201771288086267
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 50.400000000000006
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 27.15
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 32.98037738371286
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 53.335538352226436
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 60.62280780524686
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 66.21727111552212
+    },
+    {
+      "pose": "4",
+      "a": "M1_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 62.18844857589654
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 4.821468702644066
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 26.111216174615542
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 3.2911073256533276
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 9.473496361578343
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 10.318840348749216
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 15.849282644380889
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 76.77239804950398
+    },
+    {
+      "pose": "4",
+      "a": "M3_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 68.51940267216108
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 68.0146715858087
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 44.79709042601702
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 50.400000000000006
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 72.23224024860322
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 76.51682921366687
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 5.259506931693758
+    },
+    {
+      "pose": "4",
+      "a": "M6_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 10.275545798360541
+    },
+    {
+      "pose": "4",
+      "a": "M2_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 3.397387048668481
+    },
+    {
+      "pose": "4",
+      "a": "M2_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 3.3766502565612093
+    },
+    {
+      "pose": "4",
+      "a": "M2_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 3.440364136188716
+    },
+    {
+      "pose": "4",
+      "a": "M2_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 6.610829876230174
+    },
+    {
+      "pose": "4",
+      "a": "M2_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 147.2749941811434
+    },
+    {
+      "pose": "4",
+      "a": "M2_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 141.95411085759568
+    },
+    {
+      "pose": "4",
+      "a": "M3_1",
+      "b": "M7_0",
+      "surface_clearance_mm": 4.840390677842318
+    },
+    {
+      "pose": "4",
+      "a": "M3_1",
+      "b": "M5_0",
+      "surface_clearance_mm": 10.500316313659315
+    },
+    {
+      "pose": "4",
+      "a": "M3_1",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.3804982334686358
+    },
+    {
+      "pose": "4",
+      "a": "M3_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 124.94712625790947
+    },
+    {
+      "pose": "4",
+      "a": "M3_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 119.0250907480382
+    },
+    {
+      "pose": "4",
+      "a": "M7_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 7.222240458612798
+    },
+    {
+      "pose": "4",
+      "a": "M7_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.362844137479989
+    },
+    {
+      "pose": "4",
+      "a": "M7_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 131.29241528344826
+    },
+    {
+      "pose": "4",
+      "a": "M7_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 125.18798951941478
+    },
+    {
+      "pose": "4",
+      "a": "M5_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 5.309671601347429
+    },
+    {
+      "pose": "4",
+      "a": "M5_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 133.5274690577357
+    },
+    {
+      "pose": "4",
+      "a": "M5_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 131.91984135243766
+    },
+    {
+      "pose": "4",
+      "a": "M5_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 138.05009237202574
+    },
+    {
+      "pose": "4",
+      "a": "M5_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 137.0091589710127
+    },
+    {
+      "pose": "4",
+      "a": "M4_normal_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 16.221501142450702
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M3_0",
+      "surface_clearance_mm": 2.7835602669935504
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 10.964532898807391
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 50.400000000000006
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 27.15
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 32.98037738371287
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 68.63973407072992
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 64.02079969786907
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 70.47386651055238
+    },
+    {
+      "pose": "5",
+      "a": "M1_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 69.28476604735584
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 3.35967101617012
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 36.427364545341945
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 4.4
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 35.948411916542504
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 26.96415295110257
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 22.018955497470152
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 23.37835483673799
+    },
+    {
+      "pose": "5",
+      "a": "M3_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 12.586308611366224
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 68.0146715858087
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 44.79709042601702
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 50.400000000000006
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 55.39782823702308
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 61.20298222743835
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 51.72225554105996
+    },
+    {
+      "pose": "5",
+      "a": "M6_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 39.96120043580701
+    },
+    {
+      "pose": "5",
+      "a": "M2_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 16.721626834964454
+    },
+    {
+      "pose": "5",
+      "a": "M2_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 10.396933882359273
+    },
+    {
+      "pose": "5",
+      "a": "M2_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 29.696040728602505
+    },
+    {
+      "pose": "5",
+      "a": "M2_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 20.469091299177478
+    },
+    {
+      "pose": "5",
+      "a": "M2_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 142.34432658462103
+    },
+    {
+      "pose": "5",
+      "a": "M2_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 141.70384899464884
+    },
+    {
+      "pose": "5",
+      "a": "M3_1",
+      "b": "M7_0",
+      "surface_clearance_mm": 4.841166670029359
+    },
+    {
+      "pose": "5",
+      "a": "M3_1",
+      "b": "M5_0",
+      "surface_clearance_mm": 11.813333472203828
+    },
+    {
+      "pose": "5",
+      "a": "M3_1",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.2543730835816103
+    },
+    {
+      "pose": "5",
+      "a": "M3_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 119.10291138219029
+    },
+    {
+      "pose": "5",
+      "a": "M3_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 118.72689055531178
+    },
+    {
+      "pose": "5",
+      "a": "M7_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 21.0576428103381
+    },
+    {
+      "pose": "5",
+      "a": "M7_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 26.678778386792647
+    },
+    {
+      "pose": "5",
+      "a": "M7_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 124.75126493654835
+    },
+    {
+      "pose": "5",
+      "a": "M7_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 123.90777752425502
+    },
+    {
+      "pose": "5",
+      "a": "M5_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.3611449193210508
+    },
+    {
+      "pose": "5",
+      "a": "M5_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 144.49584685926263
+    },
+    {
+      "pose": "5",
+      "a": "M5_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 148.98817500186559
+    },
+    {
+      "pose": "5",
+      "a": "M5_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 141.7856031770843
+    },
+    {
+      "pose": "5",
+      "a": "M5_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 144.49584685926263
+    },
+    {
+      "pose": "5",
+      "a": "M4_normal_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 16.221501142450702
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M3_0",
+      "surface_clearance_mm": 3.2245239543521826
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 16.203698330633486
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 3.9724262267865615
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 4.890474174462058
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 4.553509951174179
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 14.298696853318184
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 6.442832928873932
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 83.24354191385464
+    },
+    {
+      "pose": "7",
+      "a": "M1_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 92.35355030758474
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M6_0",
+      "surface_clearance_mm": 4.84095547438556
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 26.445204537707838
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 3.9583455796998717
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 10.720451966079455
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 12.32362873849843
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 15.303328525462934
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 72.11554253032087
+    },
+    {
+      "pose": "7",
+      "a": "M3_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 60.906953872697734
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M2_0",
+      "surface_clearance_mm": 68.01467158580868
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 44.79709042601702
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 50.4
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 82.43157883720515
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 74.39564594945281
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 17.19774963148306
+    },
+    {
+      "pose": "7",
+      "a": "M6_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 23.316620462283662
+    },
+    {
+      "pose": "7",
+      "a": "M2_0",
+      "b": "M3_1",
+      "surface_clearance_mm": 4.273191830400084
+    },
+    {
+      "pose": "7",
+      "a": "M2_0",
+      "b": "M7_0",
+      "surface_clearance_mm": 3.3926532381701
+    },
+    {
+      "pose": "7",
+      "a": "M2_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 12.708184176446515
+    },
+    {
+      "pose": "7",
+      "a": "M2_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 6.993038852176454
+    },
+    {
+      "pose": "7",
+      "a": "M2_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 149.52899820240694
+    },
+    {
+      "pose": "7",
+      "a": "M2_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 143.3845589247426
+    },
+    {
+      "pose": "7",
+      "a": "M3_1",
+      "b": "M7_0",
+      "surface_clearance_mm": 4.8408737569644105
+    },
+    {
+      "pose": "7",
+      "a": "M3_1",
+      "b": "M5_0",
+      "surface_clearance_mm": 3.4033068159580537
+    },
+    {
+      "pose": "7",
+      "a": "M3_1",
+      "b": "M5_1",
+      "surface_clearance_mm": 3.7029259799737106
+    },
+    {
+      "pose": "7",
+      "a": "M3_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 127.59324719719818
+    },
+    {
+      "pose": "7",
+      "a": "M3_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 120.72539767759135
+    },
+    {
+      "pose": "7",
+      "a": "M7_0",
+      "b": "M5_0",
+      "surface_clearance_mm": 6.260033268991871
+    },
+    {
+      "pose": "7",
+      "a": "M7_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 15.581966080219857
+    },
+    {
+      "pose": "7",
+      "a": "M7_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 133.9919741963189
+    },
+    {
+      "pose": "7",
+      "a": "M7_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 126.99402057149837
+    },
+    {
+      "pose": "7",
+      "a": "M5_0",
+      "b": "M5_1",
+      "surface_clearance_mm": 6.283616440363263
+    },
+    {
+      "pose": "7",
+      "a": "M5_0",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 136.18749720776472
+    },
+    {
+      "pose": "7",
+      "a": "M5_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 135.9186519479229
+    },
+    {
+      "pose": "7",
+      "a": "M5_1",
+      "b": "M4_normal_0",
+      "surface_clearance_mm": 138.4281847879276
+    },
+    {
+      "pose": "7",
+      "a": "M5_1",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 136.18749720776472
+    },
+    {
+      "pose": "7",
+      "a": "M4_normal_0",
+      "b": "M4_normal_1",
+      "surface_clearance_mm": 16.221501142450702
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "scope": "Horizontal spring solid stroke envelopes vs rigid geometry at five representative poses.\nThe fixed spring hook screws are intended contacts and excluded. Springs are represented\nby conservative OD2.5 cylinders; knots and exact spring hook clocking remain physical checks.\n",
+  "rows": [
+    {
+      "state": 0,
+      "side": "old",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "side": "old",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "side": "old",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "old_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "side": "new",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "side": "new",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 0,
+      "side": "new",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "new_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "side": "old",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "side": "old",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "side": "old",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "old_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "side": "new",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "side": "new",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 2,
+      "side": "new",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "new_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 11,
+      "side": "old",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 11,
+      "side": "old",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 11,
+      "side": "old",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "old_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 11,
+      "side": "new",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 11,
+      "side": "new",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 11,
+      "side": "new",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "new_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 14,
+      "side": "old",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 14,
+      "side": "old",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 14,
+      "side": "old",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "old_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 14,
+      "side": "new",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 14,
+      "side": "new",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 14,
+      "side": "new",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "new_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 16,
+      "side": "old",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 16,
+      "side": "old",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "old_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 16,
+      "side": "old",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "old_spring_cassette",
+      "contacts": []
+    },
+    {
+      "state": 16,
+      "side": "new",
+      "spring": "grip",
+      "min_rigid_gap_mm": 1.2624689052802225,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 16,
+      "side": "new",
+      "spring": "twist",
+      "min_rigid_gap_mm": 1.6654759474226504,
+      "nearest": "new_chassis_R",
+      "contacts": []
+    },
+    {
+      "state": 16,
+      "side": "new",
+      "spring": "press",
+      "min_rigid_gap_mm": 2.25,
+      "nearest": "new_spring_cassette",
+      "contacts": []
+    }
+  ],
+  "contacts": [],
+  "nominal_inter_spring_surface_gap_mm": 1.0
+}
